@@ -1,0 +1,40 @@
+{
+  "Title": "Prisoners",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "20 Sep 2013",
+  "Runtime": "153 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Denis Villeneuve",
+  "Writer": "Aaron Guzikowski",
+  "Actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis",
+  "Plot": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 10 wins & 38 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "Metascore": "70",
+  "imdbRating": "8.2",
+  "imdbVotes": "922,474",
+  "imdbID": "tt1392214",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$61,002,302",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Warm Bodies",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "01 Feb 2013",
+  "Runtime": "98 min",
+  "Genre": "Action, Comedy, Horror",
+  "Director": "Jonathan Levine",
+  "Writer": "Isaac Marion, Jonathan Levine",
+  "Actors": "Nicholas Hoult, Teresa Palmer, John Malkovich",
+  "Plot": "After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "2 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTM2YWZhMDUtMzEzMi00YzUzLWI0ZjYtNzgzNTA4YWEzOTdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.8",
+  "imdbVotes": "254,179",
+  "imdbID": "tt1588173",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$66,380,662",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

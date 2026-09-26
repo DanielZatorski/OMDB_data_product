@@ -1,0 +1,40 @@
+{
+  "Title": "Cinderella",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "13 Mar 2015",
+  "Runtime": "105 min",
+  "Genre": "Adventure, Drama, Family",
+  "Director": "Kenneth Branagh",
+  "Writer": "Chris Weitz, Charles Perrault",
+  "Actors": "Lily James, Cate Blanchett, Richard Madden",
+  "Plot": "When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.",
+  "Language": "English",
+  "Country": "United Kingdom, United States, Denmark, Canada, Italy",
+  "Awards": "Nominated for 1 Oscar. 10 wins & 40 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "6.9",
+  "imdbVotes": "204,139",
+  "imdbID": "tt1661199",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$201,151,353",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

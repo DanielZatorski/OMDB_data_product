@@ -1,0 +1,40 @@
+{
+  "Title": "Becky",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "05 Jun 2020",
+  "Runtime": "93 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Jonathan Milott, Cary Murnion",
+  "Writer": "Ruckus Skye, Lane Skye, Nick Morris",
+  "Actors": "Lulu Wilson, Kevin James, Joel McHale",
+  "Plot": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjllZWQyMGEtYTA2YS00ZTRkLTk5ZDMtYjU3YjI2OWM4ZmU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.1",
+  "imdbVotes": "29,778",
+  "imdbID": "tt10314450",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,003,700",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

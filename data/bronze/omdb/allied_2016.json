@@ -1,0 +1,40 @@
+{
+  "Title": "Allied",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "23 Nov 2016",
+  "Runtime": "124 min",
+  "Genre": "Action, Drama, Romance",
+  "Director": "Robert Zemeckis",
+  "Writer": "Steven Knight",
+  "Actors": "Brad Pitt, Marion Cotillard, Jared Harris",
+  "Plot": "In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+  "Language": "English, French, German, Arabic",
+  "Country": "United Kingdom, United States, China",
+  "Awards": "Nominated for 1 Oscar. 1 win & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWJiOTUzODItNTYzYS00NGY0LWIzZmEtZDA4MGI5ZWMxMjM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "7.1",
+  "imdbVotes": "178,412",
+  "imdbID": "tt3640424",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$40,098,064",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

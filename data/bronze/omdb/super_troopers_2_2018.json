@@ -1,0 +1,40 @@
+{
+  "Title": "Super Troopers 2",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "20 Apr 2018",
+  "Runtime": "99 min",
+  "Genre": "Comedy, Crime, Mystery",
+  "Director": "Jay Chandrasekhar",
+  "Writer": "Jay Chandrasekhar, Kevin Heffernan, Steve Lemme",
+  "Actors": "Jay Chandrasekhar, Kevin Heffernan, Steve Lemme",
+  "Plot": "When a border dispute arises between the U.S. and Canada, the Super Troopers are tasked with establishing a Highway Patrol station in the disputed area.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BM2MzNzRhZWYtMjYyNC00YjY4LTgzYmItNDc3MWIyMWRmYTI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "21%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "6.0",
+  "imdbVotes": "29,798",
+  "imdbID": "tt0859635",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$30,617,396",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

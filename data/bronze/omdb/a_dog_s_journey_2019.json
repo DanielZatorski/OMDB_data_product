@@ -1,0 +1,40 @@
+{
+  "Title": "A Dog's Journey",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "17 May 2019",
+  "Runtime": "109 min",
+  "Genre": "Adventure, Comedy, Drama",
+  "Director": "Gail Mancuso",
+  "Writer": "W. Bruce Cameron, Cathryn Michon, Maya Forbes",
+  "Actors": "Josh Gad, Dennis Quaid, Kathryn Prescott",
+  "Plot": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+  "Language": "English",
+  "Country": "China, India, Hong Kong, United States",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWVkY2NlNmEtNzU3Mi00Njc0LWJiNjMtNzU5ZTdhZTAzZmU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "Metascore": "43",
+  "imdbRating": "7.5",
+  "imdbVotes": "32,512",
+  "imdbID": "tt8385474",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$22,782,371",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

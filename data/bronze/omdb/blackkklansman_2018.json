@@ -1,0 +1,40 @@
+{
+  "Title": "BlacKkKlansman",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "10 Aug 2018",
+  "Runtime": "135 min",
+  "Genre": "Biography, Comedy, Crime",
+  "Director": "Spike Lee",
+  "Writer": "Charlie Wachtel, David Rabinowitz, Kevin Willmott",
+  "Actors": "Alec Baldwin, John David Washington, Isiah Whitlock Jr.",
+  "Plot": "In this story inspired by true events, Ron Stallworth, an African-American Colorado police officer, successfully infiltrates the local branch of the Ku Klux Klan with the help of a white Jewish colleague.",
+  "Language": "English",
+  "Country": "United States, China",
+  "Awards": "Won 1 Oscar. 46 wins & 215 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.5",
+  "imdbVotes": "314,003",
+  "imdbID": "tt7349662",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$49,275,340",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

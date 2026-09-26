@@ -1,0 +1,40 @@
+{
+  "Title": "Lion",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "06 Jan 2017",
+  "Runtime": "118 min",
+  "Genre": "Biography, Drama",
+  "Director": "Garth Davis",
+  "Writer": "Saroo Brierley, Luke Davies",
+  "Actors": "Dev Patel, Nicole Kidman, Rooney Mara",
+  "Plot": "A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.",
+  "Language": "English, Hindi, Bengali",
+  "Country": "United Kingdom, Australia, United States",
+  "Awards": "Nominated for 6 Oscars. 59 wins & 110 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "8.0",
+  "imdbVotes": "263,268",
+  "imdbID": "tt3741834",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$51,738,905",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

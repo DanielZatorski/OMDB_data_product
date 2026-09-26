@@ -1,0 +1,40 @@
+{
+  "Title": "The Hangover Part III",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "23 May 2013",
+  "Runtime": "100 min",
+  "Genre": "Comedy, Crime",
+  "Director": "Todd Phillips",
+  "Writer": "Todd Phillips, Craig Mazin, Jon Lucas",
+  "Actors": "Bradley Cooper, Zach Galifianakis, Ed Helms",
+  "Plot": "When one of their own is kidnapped by an angry gangster, the Wolf Pack must track down Mr. Chow, who has escaped from prison and is on the run.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "2 wins & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "21%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "30/100"
+    }
+  ],
+  "Metascore": "30",
+  "imdbRating": "5.9",
+  "imdbVotes": "360,292",
+  "imdbID": "tt1951261",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$112,200,072",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

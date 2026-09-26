@@ -1,0 +1,40 @@
+{
+  "Title": "Captain Phillips",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "11 Oct 2013",
+  "Runtime": "134 min",
+  "Genre": "Action, Biography, Crime",
+  "Director": "Paul Greengrass",
+  "Writer": "Billy Ray, Richard Phillips, Stephan Talty",
+  "Actors": "Tom Hanks, Barkhad Abdi, Barkhad Abdirahman",
+  "Plot": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+  "Language": "English, Somali",
+  "Country": "United States, United Kingdom, Malta",
+  "Awards": "Nominated for 6 Oscars. 17 wins & 155 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "Metascore": "82",
+  "imdbRating": "7.8",
+  "imdbVotes": "516,908",
+  "imdbID": "tt1535109",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$107,100,855",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

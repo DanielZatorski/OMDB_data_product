@@ -1,0 +1,40 @@
+{
+  "Title": "The Art of Racing in the Rain",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "09 Aug 2019",
+  "Runtime": "109 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Simon Curtis",
+  "Writer": "Mark Bomback, Garth Stein",
+  "Actors": "Kevin Costner, Milo Ventimiglia, Jackie Minns",
+  "Plot": "Through his bond with his owner, aspiring Formula One race car driver Denny, golden retriever Enzo learns that the techniques needed on the racetrack can also be used to successfully navigate the journey of life.",
+  "Language": "English, Italian",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyMTJlMzMtYjJkYy00MDA4LTlhMDAtNjM1OGVhYmFjZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "Metascore": "43",
+  "imdbRating": "7.6",
+  "imdbVotes": "47,043",
+  "imdbID": "tt1478839",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$26,395,642",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "News of the World",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2020",
+  "Runtime": "118 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Paul Greengrass",
+  "Writer": "Paul Greengrass, Luke Davies, Paulette Jiles",
+  "Actors": "Tom Hanks, Helena Zengel, Tom Astor",
+  "Plot": "A Civil War veteran agrees to deliver a girl taken by the Kiowa people years ago to her aunt and uncle against her will. They travel hundreds of miles and face grave dangers as they search for a place that either can call home.",
+  "Language": "English, North American Indian, German",
+  "Country": "United States, China",
+  "Awards": "Nominated for 4 Oscars. 5 wins & 81 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzMxNDYyNzUtMGJkNi00NDcyLWEzYzgtMjY5MTVkMGZiMzRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "6.8",
+  "imdbVotes": "100,365",
+  "imdbID": "tt6878306",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$12,668,325",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,36 @@
+{
+  "Title": "Don't Breathe 2",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "13 Aug 2021",
+  "Runtime": "98 min",
+  "Genre": "Action, Crime, Horror",
+  "Director": "Rodo Sayagues",
+  "Writer": "Fede Alvarez, Rodo Sayagues",
+  "Actors": "Stephen Lang, Madelyn Grace, Brendan Sexton III",
+  "Plot": "A blind war veteran trains his adopted daughter to face any danger, but they are ambushed when a vengeful stranger emerges from the past.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWE2MGFjYzUtZGI4Ni00ZTVhLTg3YmItYzc0NDM3OWMzMzQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Metascore": "46",
+  "imdbRating": "6.0",
+  "imdbVotes": "81,152",
+  "imdbID": "tt6246322",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,712,950",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

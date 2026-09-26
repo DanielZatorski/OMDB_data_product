@@ -1,0 +1,40 @@
+{
+  "Title": "Dolittle",
+  "Year": "2020",
+  "Rated": "PG",
+  "Released": "17 Jan 2020",
+  "Runtime": "101 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Stephen Gaghan",
+  "Writer": "Stephen Gaghan, Dan Gregor, Doug Mand",
+  "Actors": "Robert Downey Jr., Antonio Banderas, Michael Sheen",
+  "Plot": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+  "Language": "English, French",
+  "Country": "United States, China, Japan",
+  "Awards": "4 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZhZTYxNWItZDc3OC00OGRjLThlOWQtMTU0YzBhNTk1NmY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "Metascore": "26",
+  "imdbRating": "5.6",
+  "imdbVotes": "78,473",
+  "imdbID": "tt6673612",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$77,047,065",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

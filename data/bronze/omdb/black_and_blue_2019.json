@@ -1,0 +1,40 @@
+{
+  "Title": "Black and Blue",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "25 Oct 2019",
+  "Runtime": "108 min",
+  "Genre": "Action, Thriller",
+  "Director": "Deon Taylor",
+  "Writer": "Peter A. Dowling",
+  "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+  "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.4",
+  "imdbVotes": "28,987",
+  "imdbID": "tt7390646",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$22,055,313",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

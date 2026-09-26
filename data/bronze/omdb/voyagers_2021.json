@@ -1,0 +1,40 @@
+{
+  "Title": "Voyagers",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "09 Apr 2021",
+  "Runtime": "108 min",
+  "Genre": "Adventure, Mystery, Sci-Fi",
+  "Director": "Neil Burger",
+  "Writer": "Neil Burger",
+  "Actors": "Colin Farrell, Tye Sheridan, Lily-Rose Depp",
+  "Plot": "A crew of astronauts on a multi-generational mission descend into paranoia and madness, not knowing what is real or not.",
+  "Language": "English",
+  "Country": "United States, Czech Republic, Romania, United Kingdom",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThkMGFjMTctMDUxNi00MDVhLWFjYWMtMmIzNTRiZGQwODk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "5.5",
+  "imdbVotes": "29,751",
+  "imdbID": "tt9664108",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,149,935",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

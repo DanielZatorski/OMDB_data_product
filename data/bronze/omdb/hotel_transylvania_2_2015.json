@@ -1,0 +1,40 @@
+{
+  "Title": "Hotel Transylvania 2",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "25 Sep 2015",
+  "Runtime": "89 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Genndy Tartakovsky",
+  "Writer": "Robert Smigel, Adam Sandler, Todd Durham",
+  "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+  "Plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "3 wins & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "6.6",
+  "imdbVotes": "160,207",
+  "imdbID": "tt2510894",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$169,700,110",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

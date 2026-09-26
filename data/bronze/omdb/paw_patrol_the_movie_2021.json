@@ -1,0 +1,40 @@
+{
+  "Title": "PAW Patrol: The Movie",
+  "Year": "2021",
+  "Rated": "G",
+  "Released": "20 Aug 2021",
+  "Runtime": "86 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Cal Brunker",
+  "Writer": "Billy Frolick, Cal Brunker, Bob Barlen",
+  "Actors": "Tyler Perry, Ron Pardo, Will Brisbin",
+  "Plot": "Ryder and the PAW Patrol pups are called to Adventure City in order to stop the recently-elected Mayor Humdinger from wreaking havoc.",
+  "Language": "English",
+  "Country": "Canada, United States",
+  "Awards": "3 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTJmM2Q1YTMtZjQ1Yi00NGYzLTlhZWEtOTc1NGJkMjYzMTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "6.1",
+  "imdbVotes": "9,402",
+  "imdbID": "tt11832046",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$40,127,371",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Dog",
+  "Year": "2022",
+  "Rated": "PG-13",
+  "Released": "18 Feb 2022",
+  "Runtime": "101 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Reid Carolin, Channing Tatum",
+  "Writer": "Reid Carolin, Brett Rodriguez",
+  "Actors": "Channing Tatum, Ryder McLaughlin, Aavi Haas",
+  "Plot": "Two hard-charging former Army Rangers paired against their will, Briggs and a Belgian Malinois named Lulu, race down the Pacific Coast in hopes of making it to a fellow soldier's funeral on time.",
+  "Language": "English, Spanish, Arabic",
+  "Country": "United States",
+  "Awards": "2 wins & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkY2ZjYmEtNzMwNy00MTIxLTlkMmYtZDQ0Yzc4NjQyZTI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "6.5",
+  "imdbVotes": "51,903",
+  "imdbID": "tt11252248",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$61,778,069",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

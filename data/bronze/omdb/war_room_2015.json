@@ -1,0 +1,40 @@
+{
+  "Title": "War Room",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "28 Aug 2015",
+  "Runtime": "120 min",
+  "Genre": "Drama",
+  "Director": "Alex Kendrick",
+  "Writer": "Alex Kendrick, Stephen Kendrick",
+  "Actors": "Priscilla C. Shirer, T.C. Stallings, Karen Abercrombie",
+  "Plot": "A seemingly perfect family looks to fix their problems with the help of Miss Clara, an older, wiser woman.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "5 wins total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "34%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "Metascore": "26",
+  "imdbRating": "6.5",
+  "imdbVotes": "17,790",
+  "imdbID": "tt3832914",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$67,790,117",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

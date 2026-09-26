@@ -1,0 +1,40 @@
+{
+  "Title": "The Kid Detective",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "16 Oct 2020",
+  "Runtime": "100 min",
+  "Genre": "Comedy, Crime, Drama",
+  "Director": "Evan Morgan",
+  "Writer": "Evan Morgan",
+  "Actors": "Kaitlyn Chalmers-Rizzato, Adam Brody, Kaleb Horn",
+  "Plot": "A once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity; until a naive client brings him his first 'adult' case to find out who brutally murdered her boyfriend.",
+  "Language": "English",
+  "Country": "Canada",
+  "Awards": "5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODkzYjMxNTAtODQxNy00Yjg1LTk4OWItM2JmYTlkMmRkMzczXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.0",
+  "imdbVotes": "24,526",
+  "imdbID": "tt8980602",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$364,138",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

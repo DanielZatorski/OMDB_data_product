@@ -1,0 +1,40 @@
+{
+  "Title": "Judy",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "04 Oct 2019",
+  "Runtime": "118 min",
+  "Genre": "Biography, Drama, Music",
+  "Director": "Rupert Goold",
+  "Writer": "Tom Edge, Peter Quilter",
+  "Actors": "Ren\u00e9e Zellweger, Jessie Buckley, Finn Wittrock",
+  "Plot": "Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.",
+  "Language": "English",
+  "Country": "United Kingdom, France, United States",
+  "Awards": "Won 1 Oscar. 24 wins & 68 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjY1OTJlZmQtNTEwNy00MjI1LWE4MWQtMzJlNTZmN2FmN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.8",
+  "imdbVotes": "58,121",
+  "imdbID": "tt7549996",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$24,313,888",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

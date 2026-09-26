@@ -1,0 +1,40 @@
+{
+  "Title": "Pig",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "16 Jul 2021",
+  "Runtime": "92 min",
+  "Genre": "Drama, Mystery",
+  "Director": "Michael Sarnoski",
+  "Writer": "Vanessa Block, Michael Sarnoski",
+  "Actors": "Nicolas Cage, Alex Wolff, Adam Arkin",
+  "Plot": "A truffle hunter who lives alone in the Oregon wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.",
+  "Language": "English, Persian",
+  "Country": "United States, United Kingdom",
+  "Awards": "38 wins & 75 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2E1ODUtNzNlZi00NWE4LTlhMDAtOThjNmY1MDkwYTVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "Metascore": "82",
+  "imdbRating": "6.9",
+  "imdbVotes": "101,143",
+  "imdbID": "tt11003218",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,186,668",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

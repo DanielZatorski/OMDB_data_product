@@ -1,0 +1,40 @@
+{
+  "Title": "Belfast",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "12 Nov 2021",
+  "Runtime": "98 min",
+  "Genre": "Biography, Drama",
+  "Director": "Kenneth Branagh",
+  "Writer": "Kenneth Branagh",
+  "Actors": "Jude Hill, Lewis McAskie, Caitr\u00edona Balfe",
+  "Plot": "A young boy and his working-class Belfast family experience the tumultuous late 1960s.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "Won 1 Oscar. 63 wins & 259 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGU1MmMyNTMtMGE3Ni00N2E0LWFlYjEtMDIwNDk5NzUyODAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "7.2",
+  "imdbVotes": "99,600",
+  "imdbID": "tt12789558",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$9,250,870",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "A Quiet Place",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "06 Apr 2018",
+  "Runtime": "90 min",
+  "Genre": "Drama, Horror, Sci-Fi",
+  "Director": "John Krasinski",
+  "Writer": "Bryan Woods, Scott Beck, John Krasinski",
+  "Actors": "Emily Blunt, John Krasinski, Millicent Simmonds",
+  "Plot": "A family struggles for survival in a world invaded by blind alien creatures with ultra-sensitive hearing.",
+  "Language": "English, American Sign ",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 38 wins & 129 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "Metascore": "82",
+  "imdbRating": "7.5",
+  "imdbVotes": "652,123",
+  "imdbID": "tt6644200",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$188,024,361",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

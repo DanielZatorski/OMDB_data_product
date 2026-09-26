@@ -1,0 +1,40 @@
+{
+  "Title": "Godzilla",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "16 May 2014",
+  "Runtime": "123 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Gareth Edwards",
+  "Writer": "Dave Callaham, Max Borenstein",
+  "Actors": "Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston",
+  "Plot": "Following the 1999 Janjira nuclear disaster that claimed his wife Sandra, Joe Brody seeks answers. His Navy officer son Ford accompanies him to Japan, where they discover the devastating truth and see ancient monsters emerge.",
+  "Language": "English, Japanese",
+  "Country": "United States, United Kingdom",
+  "Awards": "7 wins & 31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.4",
+  "imdbVotes": "468,177",
+  "imdbID": "tt0831387",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$200,676,069",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

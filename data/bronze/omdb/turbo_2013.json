@@ -1,0 +1,40 @@
+{
+  "Title": "Turbo",
+  "Year": "2013",
+  "Rated": "PG",
+  "Released": "17 Jul 2013",
+  "Runtime": "96 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "David Soren",
+  "Writer": "David Soren, Darren Lemke, Robert Siegel",
+  "Actors": "Ryan Reynolds, Paul Giamatti, Maya Rudolph",
+  "Plot": "A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.",
+  "Language": "English",
+  "Country": "United States, India",
+  "Awards": "Nominated for 1 BAFTA Award1 win & 13 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4NTgwMjM5MzheQTJeQWpwZ15BbWU3MDg2ODA1ODk@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.4",
+  "imdbVotes": "123,630",
+  "imdbID": "tt1860353",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$83,028,128",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

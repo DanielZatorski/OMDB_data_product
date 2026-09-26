@@ -1,0 +1,40 @@
+{
+  "Title": "American Underdog",
+  "Year": "2021",
+  "Rated": "PG",
+  "Released": "25 Dec 2021",
+  "Runtime": "112 min",
+  "Genre": "Biography, Drama, Romance",
+  "Director": "Andrew Erwin, Jon Erwin",
+  "Writer": "Kurt Warner, Michael Silver, Jon Erwin",
+  "Actors": "Zachary Levi, Anna Paquin, Hayden Zaller",
+  "Plot": "The story of NFL MVP and Hall of Fame quarterback Kurt Warner, who went from stocking shelves at a supermarket to becoming an American Football star.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MjIxZWEtNDA5ZC00MGRjLThhMzQtNWM5OTc0MTlmZDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "7.1",
+  "imdbVotes": "25,229",
+  "imdbID": "tt11729298",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$26,514,814",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

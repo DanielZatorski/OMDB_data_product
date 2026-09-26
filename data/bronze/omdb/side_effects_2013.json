@@ -1,0 +1,40 @@
+{
+  "Title": "Side Effects",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "08 Feb 2013",
+  "Runtime": "106 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Steven Soderbergh",
+  "Writer": "Scott Z. Burns",
+  "Actors": "Rooney Mara, Channing Tatum, Jude Law",
+  "Plot": "A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "7.1",
+  "imdbVotes": "202,864",
+  "imdbID": "tt2053463",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,172,757",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

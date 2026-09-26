@@ -1,0 +1,40 @@
+{
+  "Title": "Copshop",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "17 Sep 2021",
+  "Runtime": "107 min",
+  "Genre": "Action, Thriller",
+  "Director": "Joe Carnahan",
+  "Writer": "Kurt McLeod, Joe Carnahan, Mark Williams",
+  "Actors": "Gerard Butler, Frank Grillo, Alexis Louder",
+  "Plot": "On the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station-but when the hitman turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmM4YzA5NDEtM2Q2Ny00ZDlkLWFiMGUtNDhmY2JkZmU2YTkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "6.2",
+  "imdbVotes": "46,046",
+  "imdbID": "tt5748448",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,213,243",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

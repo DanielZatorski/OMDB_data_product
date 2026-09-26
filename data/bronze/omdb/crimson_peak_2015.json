@@ -1,0 +1,40 @@
+{
+  "Title": "Crimson Peak",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "16 Oct 2015",
+  "Runtime": "119 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Guillermo del Toro",
+  "Writer": "Guillermo del Toro, Matthew Robbins",
+  "Actors": "Mia Wasikowska, Jessica Chastain, Tom Hiddleston",
+  "Plot": "A new bride investigates ghostly visions at a remote gothic mansion that holds dark secrets.",
+  "Language": "English",
+  "Country": "Mexico, United States",
+  "Awards": "7 wins & 45 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2NzcxYzAtZDdjYS00ZTZiLTg5ZmMtZmQ1ZjBhNGQxMDI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.5",
+  "imdbVotes": "168,637",
+  "imdbID": "tt2554274",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$31,090,320",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

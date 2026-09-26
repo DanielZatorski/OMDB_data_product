@@ -1,0 +1,40 @@
+{
+  "Title": "Joy",
+  "Year": "2015",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2015",
+  "Runtime": "124 min",
+  "Genre": "Biography, Drama",
+  "Director": "David O. Russell",
+  "Writer": "David O. Russell, Annie Mumolo",
+  "Actors": "Jennifer Lawrence, Robert De Niro, Bradley Cooper",
+  "Plot": "Joy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.",
+  "Language": "English, Spanish, French",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 9 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzc2MTI5Mzk0MV5BMl5BanBnXkFtZTgwMDIxMDg1NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.6",
+  "imdbVotes": "153,374",
+  "imdbID": "tt2446980",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$56,451,232",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

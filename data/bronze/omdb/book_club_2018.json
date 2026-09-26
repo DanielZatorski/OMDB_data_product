@@ -1,0 +1,40 @@
+{
+  "Title": "Book Club",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "18 May 2018",
+  "Runtime": "104 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Bill Holderman",
+  "Writer": "Bill Holderman, Erin Simms",
+  "Actors": "Diane Keaton, Jane Fonda, Candice Bergen",
+  "Plot": "Four lifelong friends have their lives forever changed after reading 50 Shades of Grey in their monthly book club.",
+  "Language": "English, Hungarian, Spanish, French",
+  "Country": "United States",
+  "Awards": "2 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDY2MDI3Ml5BMl5BanBnXkFtZTgwNjU2MzIyNTM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.1",
+  "imdbVotes": "34,406",
+  "imdbID": "tt6857166",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$68,566,296",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

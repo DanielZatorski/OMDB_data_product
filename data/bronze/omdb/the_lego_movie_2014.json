@@ -1,0 +1,40 @@
+{
+  "Title": "The Lego Movie",
+  "Year": "2014",
+  "Rated": "PG",
+  "Released": "07 Feb 2014",
+  "Runtime": "100 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Phil Lord, Christopher Miller",
+  "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+  "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+  "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+  "Language": "English",
+  "Country": "United States, Denmark, Australia, Norway",
+  "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.7",
+  "imdbVotes": "411,857",
+  "imdbID": "tt1490017",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$257,966,122",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

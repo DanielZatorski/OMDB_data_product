@@ -1,0 +1,40 @@
+{
+  "Title": "Sing 2",
+  "Year": "2021",
+  "Rated": "PG",
+  "Released": "22 Dec 2021",
+  "Runtime": "110 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Garth Jennings, Christophe Lourdelet",
+  "Writer": "Garth Jennings",
+  "Actors": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson",
+  "Plot": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+  "Language": "English",
+  "Country": "Japan, United States",
+  "Awards": "2 wins & 21 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzZkZmMzNzItYzBhOS00ZGEwLWFiNWYtMWRjNzM4MjRjZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "7.3",
+  "imdbVotes": "100,000",
+  "imdbID": "tt6467266",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$162,790,990",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

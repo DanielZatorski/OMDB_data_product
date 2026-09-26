@@ -1,0 +1,40 @@
+{
+  "Title": "The Expendables 3",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "15 Aug 2014",
+  "Runtime": "126 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Patrick Hughes",
+  "Writer": "Sylvester Stallone, Creighton Rothenberger, Katrin Benedikt",
+  "Actors": "Sylvester Stallone, Jason Statham, Jet Li",
+  "Plot": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+  "Language": "English, Romanian, Spanish",
+  "Country": "United States, France, Germany, Bulgaria",
+  "Awards": "2 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "Metascore": "35",
+  "imdbRating": "6.1",
+  "imdbVotes": "205,920",
+  "imdbID": "tt2333784",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$39,322,544",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

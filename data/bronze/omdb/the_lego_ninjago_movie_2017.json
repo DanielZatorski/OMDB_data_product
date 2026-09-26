@@ -1,0 +1,40 @@
+{
+  "Title": "The Lego Ninjago Movie",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "22 Sep 2017",
+  "Runtime": "101 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Charlie Bean, Paul Fisher, Bob Logan",
+  "Writer": "Bob Logan, Paul Fisher, William Wheeler",
+  "Actors": "Jackie Chan, Dave Franco, Fred Armisen",
+  "Plot": "Shunned by everyone for being the son of an evil warlord, a teenager seeks to defeat him with the help of his fellow ninjas.",
+  "Language": "English",
+  "Country": "United States, Denmark, Australia, Canada",
+  "Awards": "7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ3Zjk0ZGEtOTU4ZS00OWY1LTlkM2YtNTllZjBhNTk3NDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "6.1",
+  "imdbVotes": "33,924",
+  "imdbID": "tt3014284",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$59,364,177",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

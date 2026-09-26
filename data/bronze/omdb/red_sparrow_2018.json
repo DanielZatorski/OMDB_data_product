@@ -1,0 +1,40 @@
+{
+  "Title": "Red Sparrow",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "02 Mar 2018",
+  "Runtime": "140 min",
+  "Genre": "Action, Drama, Thriller",
+  "Director": "Francis Lawrence",
+  "Writer": "Justin Haythe, Jason Matthews",
+  "Actors": "Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts",
+  "Plot": "Prima ballerina Dominika Egorova turns dangerous Sparrow.",
+  "Language": "English, Russian, Hungarian",
+  "Country": "United States, Hungary, Austria",
+  "Awards": "3 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "45%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.6",
+  "imdbVotes": "216,295",
+  "imdbID": "tt2873282",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$46,874,505",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

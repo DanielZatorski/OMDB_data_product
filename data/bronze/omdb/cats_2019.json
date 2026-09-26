@@ -1,0 +1,40 @@
+{
+  "Title": "Cats",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "20 Dec 2019",
+  "Runtime": "110 min",
+  "Genre": "Comedy, Drama, Family",
+  "Director": "Tom Hooper",
+  "Writer": "Lee Hall, Tom Hooper, Andrew Lloyd Webber",
+  "Actors": "James Corden, Judi Dench, Jason Derulo",
+  "Plot": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+  "Language": "English",
+  "Country": "United Kingdom, United States, Canada, Australia, China, Japan",
+  "Awards": "11 wins & 8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjhmMjcxNDUtNmVjZS00MjA1LTgzZjgtOTRjMTk4YjU1NDcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "19%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "32/100"
+    }
+  ],
+  "Metascore": "32",
+  "imdbRating": "2.8",
+  "imdbVotes": "58,683",
+  "imdbID": "tt5697572",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$27,166,770",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

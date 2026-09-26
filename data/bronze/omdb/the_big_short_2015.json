@@ -1,0 +1,40 @@
+{
+  "Title": "The Big Short",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "23 Dec 2015",
+  "Runtime": "130 min",
+  "Genre": "Biography, Comedy, Drama",
+  "Director": "Adam McKay",
+  "Writer": "Charles Randolph, Adam McKay, Michael Lewis",
+  "Actors": "Christian Bale, Steve Carell, Ryan Gosling",
+  "Plot": "In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 37 wins & 81 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDZkNDQ3YjktYjBlZC00YTY1LTgxOGYtY2RhMWFhZmNkZGY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.8",
+  "imdbVotes": "532,875",
+  "imdbID": "tt1596363",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$70,259,870",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

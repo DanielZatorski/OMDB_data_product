@@ -1,0 +1,40 @@
+{
+  "Title": "She Said",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "18 Nov 2022",
+  "Runtime": "129 min",
+  "Genre": "Crime, Drama, History",
+  "Director": "Maria Schrader",
+  "Writer": "Rebecca Lenkiewicz, Jodi Kantor, Megan Twohey",
+  "Actors": "Zoe Kazan, Carey Mulligan, Patricia Clarkson",
+  "Plot": "Jodi Kantor and Megan Twohey's quest to break the Harvey Weinstein scandal.",
+  "Language": "English, Hebrew, Cantonese",
+  "Country": "United States, Japan",
+  "Awards": "Nominated for 2 BAFTA 14 wins & 43 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjVmNTk1NzktMjk3OC00NDYwLWIzMzMtY2EzZWU0YjZlMmRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.3",
+  "imdbVotes": "49,072",
+  "imdbID": "tt11198810",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,825,995",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

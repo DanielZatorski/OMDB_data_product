@@ -1,0 +1,40 @@
+{
+  "Title": "Strange World",
+  "Year": "2022",
+  "Rated": "PG",
+  "Released": "23 Nov 2022",
+  "Runtime": "102 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Don Hall, Qui Nguyen",
+  "Writer": "Qui Nguyen",
+  "Actors": "Jake Gyllenhaal, Dennis Quaid, Jaboukie Young-White",
+  "Plot": "The legendary Clades are a family of explorers whose differences threaten to topple their latest and most crucial mission.",
+  "Language": "English",
+  "Country": "United States, Japan",
+  "Awards": "9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWY1Y2MwNzctOTMwNC00ZTQ3LWFiZDYtNjZhOGJkN2ZmMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "5.7",
+  "imdbVotes": "51,316",
+  "imdbID": "tt10298840",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$37,968,963",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

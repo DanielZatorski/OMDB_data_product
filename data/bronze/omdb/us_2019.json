@@ -1,0 +1,40 @@
+{
+  "Title": "Us",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "22 Mar 2019",
+  "Runtime": "116 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Jordan Peele",
+  "Writer": "Jordan Peele",
+  "Actors": "Lupita Nyong'o, Winston Duke, Elisabeth Moss",
+  "Plot": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide's childhood home. The family is shocked to find out that the intruders look lik...",
+  "Language": "English",
+  "Country": "United States, China, Japan",
+  "Awards": "87 wins & 135 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "6.8",
+  "imdbVotes": "390,771",
+  "imdbID": "tt6857112",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$175,084,580",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

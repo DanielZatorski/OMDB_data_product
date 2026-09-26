@@ -1,0 +1,40 @@
+{
+  "Title": "Concussion",
+  "Year": "2015",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2015",
+  "Runtime": "123 min",
+  "Genre": "Biography, Drama, Sport",
+  "Director": "Peter Landesman",
+  "Writer": "Peter Landesman, Jeanne Marie Laskas",
+  "Actors": "Will Smith, Alec Baldwin, Albert Brooks",
+  "Plot": "In Pittsburgh, accomplished pathologist Dr. Bennet Omalu uncovers the truth about brain damage in football players who suffer repeated concussions in the course of normal play.",
+  "Language": "English",
+  "Country": "United Kingdom, Australia, United States",
+  "Awards": "4 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjgwNDg0NV5BMl5BanBnXkFtZTgwMzY1MjAyNzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "7.1",
+  "imdbVotes": "103,389",
+  "imdbID": "tt3322364",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$34,542,474",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

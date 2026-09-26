@@ -1,0 +1,40 @@
+{
+  "Title": "Home",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "27 Mar 2015",
+  "Runtime": "94 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Tim Johnson",
+  "Writer": "Tom J. Astle, Matt Ember, Adam Rex",
+  "Actors": "Jim Parsons, Rihanna, Steve Martin",
+  "Plot": "Oh, a lovable misfit alien, runs away from his planet and takes shelter on Earth, where he befriends Tip, an adventurous young girl who is on a quest to find her displaced mother Lucy.",
+  "Language": "English, French",
+  "Country": "United States, India",
+  "Awards": "3 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "6.5",
+  "imdbVotes": "120,478",
+  "imdbID": "tt2224026",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$177,397,510",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

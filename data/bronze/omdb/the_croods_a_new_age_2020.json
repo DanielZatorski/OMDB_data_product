@@ -1,0 +1,40 @@
+{
+  "Title": "The Croods: A New Age",
+  "Year": "2020",
+  "Rated": "PG",
+  "Released": "25 Nov 2020",
+  "Runtime": "95 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Joel Crawford",
+  "Writer": "Kevin Hageman, Dan Hageman, Paul Fisher",
+  "Actors": "Nicolas Cage, Emma Stone, Ryan Reynolds",
+  "Plot": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
+  "Language": "English",
+  "Country": "United States, Japan",
+  "Awards": "31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.9",
+  "imdbVotes": "60,294",
+  "imdbID": "tt2850386",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$58,568,815",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Ready Player One",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "29 Mar 2018",
+  "Runtime": "140 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Steven Spielberg",
+  "Writer": "Zak Penn, Ernest Cline",
+  "Actors": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn",
+  "Plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+  "Language": "English, Japanese",
+  "Country": "United States, India, Singapore, Canada, United Kingdom, Japan, Australia",
+  "Awards": "Nominated for 1 Oscar. 11 wins & 58 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.4",
+  "imdbVotes": "540,503",
+  "imdbID": "tt1677720",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$137,715,350",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

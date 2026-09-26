@@ -1,0 +1,40 @@
+{
+  "Title": "Wonder Park",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "15 Mar 2019",
+  "Runtime": "85 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Dylan Brown",
+  "Writer": "Josh Appelbaum, Andr\u00e9 Nemec, Robert Gordon",
+  "Actors": "Sofia Mali, Jennifer Garner, Ken Hudson Campbell",
+  "Plot": "The imagination of a wildly creative girl comes alive in an amusement park.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "1 win & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "35%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "Metascore": "45",
+  "imdbRating": "5.9",
+  "imdbVotes": "13,601",
+  "imdbID": "tt6428676",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$45,216,793",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

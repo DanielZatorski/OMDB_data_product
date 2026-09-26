@@ -1,0 +1,40 @@
+{
+  "Title": "The Shack",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "03 Mar 2017",
+  "Runtime": "132 min",
+  "Genre": "Drama, Fantasy",
+  "Director": "Stuart Hazeldine",
+  "Writer": "John Fusco, Andrew Lanham, Destin Daniel Cretton",
+  "Actors": "Sam Worthington, Octavia Spencer, Tim McGraw",
+  "Plot": "A grieving man receives a mysterious, personal invitation to meet with God at a place called \"The Shack.\"",
+  "Language": "English",
+  "Country": "United States, Canada, Hong Kong",
+  "Awards": "3 wins & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDMxNzcxNl5BMl5BanBnXkFtZTgwODc4MzkwOTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "32/100"
+    }
+  ],
+  "Metascore": "32",
+  "imdbRating": "6.3",
+  "imdbVotes": "41,946",
+  "imdbID": "tt2872518",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$57,386,418",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

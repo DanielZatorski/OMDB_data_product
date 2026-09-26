@@ -1,0 +1,40 @@
+{
+  "Title": "Moana",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "23 Nov 2016",
+  "Runtime": "107 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Ron Clements, John Musker, Don Hall",
+  "Writer": "Jared Bush, Ron Clements, John Musker",
+  "Actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House",
+  "Plot": "In ancient Polynesia, when a terrible curse incurred by the demigod Maui reaches Moana's island, she answers the Ocean's call to seek out Maui to set things right.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 22 wins & 90 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.6",
+  "imdbVotes": "436,011",
+  "imdbID": "tt3521164",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$248,757,044",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

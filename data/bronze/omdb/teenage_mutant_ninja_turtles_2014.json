@@ -1,0 +1,40 @@
+{
+  "Title": "Teenage Mutant Ninja Turtles",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "08 Aug 2014",
+  "Runtime": "101 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Jonathan Liebesman",
+  "Writer": "Josh Appelbaum, Andr\u00e9 Nemec, Evan Daugherty",
+  "Actors": "Megan Fox, Will Arnett, William Fichtner",
+  "Plot": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+  "Language": "English, Japanese",
+  "Country": "United States",
+  "Awards": "1 win & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "Metascore": "31",
+  "imdbRating": "5.8",
+  "imdbVotes": "232,108",
+  "imdbID": "tt1291150",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$191,204,754",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

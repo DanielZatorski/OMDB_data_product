@@ -1,0 +1,40 @@
+{
+  "Title": "The Best Man Holiday",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "15 Nov 2013",
+  "Runtime": "123 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Malcolm D. Lee",
+  "Writer": "Malcolm D. Lee",
+  "Actors": "Monica Calhoun, Morris Chestnut, Melissa De Sousa",
+  "Plot": "When college friends reunite after 15 years over the Christmas holidays, they discover just how easy it is for long-forgotten rivalries and romances to be reignited.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 15 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjU0MTI1MDg5Ml5BMl5BanBnXkFtZTgwNzc2MTMzMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "6.6",
+  "imdbVotes": "17,550",
+  "imdbID": "tt2083355",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$70,525,195",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Downton Abbey",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "20 Sep 2019",
+  "Runtime": "122 min",
+  "Genre": "Drama, Romance",
+  "Director": "Michael Engler",
+  "Writer": "Julian Fellowes",
+  "Actors": "Stephen Campbell Moore, Michael Fox, Lesley Nicol",
+  "Plot": "The Crawleys and their servants prepare to host King George V and Queen Mary at Downton Abbey.",
+  "Language": "English",
+  "Country": "United Kingdom, China, United States",
+  "Awards": "3 wins & 19 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxYzUyZTgtM2ZiNy00YWYxLTg3NWMtNmY2YWNkM2Q5NDNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.4",
+  "imdbVotes": "70,709",
+  "imdbID": "tt6398184",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$96,853,865",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

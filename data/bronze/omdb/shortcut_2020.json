@@ -1,0 +1,40 @@
+{
+  "Title": "Shortcut",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "25 Sep 2020",
+  "Runtime": "80 min",
+  "Genre": "Adventure, Fantasy, Horror",
+  "Director": "Alessio Liguori",
+  "Writer": "Daniele Cosci",
+  "Actors": "Jack Kane, Zanda Emlano, Zak Sutcliffe",
+  "Plot": "A mysterious creature terrorizes five teenage friends after their bus takes a shortcut on a desolate road in the wild.",
+  "Language": "English",
+  "Country": "Italy, Germany",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2EyZTlmNGItNGNmOS00YzcxLTljMDEtNDQwMGM0YTZkMjA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "Metascore": "26",
+  "imdbRating": "4.1",
+  "imdbVotes": "2,228",
+  "imdbID": "tt8960138",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$588,869",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

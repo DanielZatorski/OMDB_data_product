@@ -1,0 +1,40 @@
+{
+  "Title": "West Side Story",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "10 Dec 2021",
+  "Runtime": "156 min",
+  "Genre": "Crime, Drama, Musical",
+  "Director": "Steven Spielberg",
+  "Writer": "Tony Kushner, Arthur Laurents",
+  "Actors": "Ansel Elgort, Rachel Zegler, Ariana DeBose",
+  "Plot": "When young Tony and Maria fall in love in 1957 New York City, their romance helps to fuel the fire between the warring Jets and Sharks, two rival gangs vying for control of the streets.",
+  "Language": "English, Spanish",
+  "Country": "United States, Canada, United Kingdom",
+  "Awards": "Won 1 Oscar. 72 wins & 298 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWZkYzY2OGUtOGU4Ni00NmI0LTg2ZjAtZDA5OWE0YTNiZWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.1",
+  "imdbVotes": "121,710",
+  "imdbID": "tt3581652",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$38,530,322",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

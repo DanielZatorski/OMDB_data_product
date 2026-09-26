@@ -1,0 +1,40 @@
+{
+  "Title": "The Magnificent Seven",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "23 Sep 2016",
+  "Runtime": "132 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Antoine Fuqua",
+  "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+  "Actors": "Denzel Washington, Chris Pratt, Ethan Hawke",
+  "Plot": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+  "Language": "English, North American Indian, Spanish",
+  "Country": "United States, Australia",
+  "Awards": "5 wins & 12 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.9",
+  "imdbVotes": "240,944",
+  "imdbID": "tt2404435",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$93,432,655",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

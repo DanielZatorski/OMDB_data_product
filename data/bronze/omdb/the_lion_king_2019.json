@@ -1,0 +1,40 @@
+{
+  "Title": "The Lion King",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "19 Jul 2019",
+  "Runtime": "118 min",
+  "Genre": "Animation, Adventure, Drama",
+  "Director": "Jon Favreau",
+  "Writer": "Jeff Nathanson, Irene Mecchi, Jonathan Roberts",
+  "Actors": "Donald Glover, Beyonc\u00e9, Seth Rogen",
+  "Plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+  "Language": "English, Spanish",
+  "Country": "United States, United Kingdom, Kenya",
+  "Awards": "Nominated for 1 Oscar. 21 wins & 44 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "6.8",
+  "imdbVotes": "290,328",
+  "imdbID": "tt6105098",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$543,638,043",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

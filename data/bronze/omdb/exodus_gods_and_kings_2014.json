@@ -1,0 +1,40 @@
+{
+  "Title": "Exodus: Gods and Kings",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "12 Dec 2014",
+  "Runtime": "150 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Ridley Scott",
+  "Writer": "Adam Cooper, Bill Collage, Jeffrey Caine",
+  "Actors": "Christian Bale, Joel Edgerton, Ben Kingsley",
+  "Plot": "The defiant leader Moses rises up against Egyptian Pharaoh Ramses II, setting six hundred thousand slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.",
+  "Language": "English",
+  "Country": "United Kingdom, Spain, United States",
+  "Awards": "6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.0",
+  "imdbVotes": "186,124",
+  "imdbID": "tt1528100",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$65,014,513",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

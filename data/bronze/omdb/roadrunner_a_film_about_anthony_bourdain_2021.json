@@ -1,0 +1,40 @@
+{
+  "Title": "Roadrunner: A Film About Anthony Bourdain",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "16 Jul 2021",
+  "Runtime": "119 min",
+  "Genre": "Documentary",
+  "Director": "Morgan Neville",
+  "Writer": "N/A",
+  "Actors": "Asia Argento, Anthony Bourdain, Ariane Bourdain",
+  "Plot": "A documentary about Anthony Bourdain and his career as a chef, writer and host, revered and renowned for his authentic approach to food, culture and travel.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1MDk5M2EtNWVhYS00ZmFiLWJhNTQtM2RkMTBmOGZhY2M0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "7.7",
+  "imdbVotes": "11,588",
+  "imdbID": "tt14512538",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,354,970",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

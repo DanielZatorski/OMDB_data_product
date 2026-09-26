@@ -1,0 +1,40 @@
+{
+  "Title": "The Favourite",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "21 Dec 2018",
+  "Runtime": "119 min",
+  "Genre": "Biography, Comedy, Drama",
+  "Director": "Yorgos Lanthimos",
+  "Writer": "Deborah Davis, Tony McNamara",
+  "Actors": "Olivia Colman, Emma Stone, Rachel Weisz",
+  "Plot": "In early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.",
+  "Language": "English",
+  "Country": "Ireland, United Kingdom, United States",
+  "Awards": "Won 1 Oscar. 187 wins & 352 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "7.5",
+  "imdbVotes": "256,902",
+  "imdbID": "tt5083738",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$34,366,783",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Ghost in the Shell",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "31 Mar 2017",
+  "Runtime": "107 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Rupert Sanders",
+  "Writer": "Shirow Masamune, Jamie Moss, William Wheeler",
+  "Actors": "Scarlett Johansson, Pilou Asb\u00e6k, Takeshi Kitano",
+  "Plot": "In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+  "Language": "English, Japanese",
+  "Country": "United States, China, Hong Kong, Canada, India",
+  "Awards": "3 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.3",
+  "imdbVotes": "238,552",
+  "imdbID": "tt1219827",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$40,563,557",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

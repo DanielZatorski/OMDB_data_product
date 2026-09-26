@@ -1,0 +1,40 @@
+{
+  "Title": "Memory",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "29 Apr 2022",
+  "Runtime": "114 min",
+  "Genre": "Action, Crime, Thriller",
+  "Director": "Martin Campbell",
+  "Writer": "Dario Scardapane, Jef Geeraerts, Carl Joos",
+  "Actors": "Liam Neeson, Guy Pearce, Taj Atwal",
+  "Plot": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1ZjBkMTgtZmIwMi00OTM0LTk4ZGQtNDE0YmNkY2I3YTMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "5.8",
+  "imdbVotes": "41,729",
+  "imdbID": "tt11827628",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,329,043",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

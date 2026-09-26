@@ -1,0 +1,40 @@
+{
+  "Title": "The Boss Baby",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "31 Mar 2017",
+  "Runtime": "97 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Tom McGrath",
+  "Writer": "Michael McCullers, Marla Frazee",
+  "Actors": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+  "Plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 4 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "6.3",
+  "imdbVotes": "156,460",
+  "imdbID": "tt3874544",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$175,003,033",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

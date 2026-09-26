@@ -1,0 +1,40 @@
+{
+  "Title": "Kung Fu Panda 3",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "29 Jan 2016",
+  "Runtime": "95 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Alessandro Carloni, Jennifer Yuh Nelson",
+  "Writer": "Jonathan Aibel, Glenn Berger, Ethan Reiff",
+  "Actors": "Jack Black, Bryan Cranston, Dustin Hoffman",
+  "Plot": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+  "Language": "English",
+  "Country": "United States, China",
+  "Awards": "1 win & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.1",
+  "imdbVotes": "215,526",
+  "imdbID": "tt2267968",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$143,528,619",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

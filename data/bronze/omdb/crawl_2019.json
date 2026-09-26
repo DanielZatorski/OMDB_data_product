@@ -1,0 +1,40 @@
+{
+  "Title": "Crawl",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "12 Jul 2019",
+  "Runtime": "87 min",
+  "Genre": "Action, Horror, Thriller",
+  "Director": "Alexandre Aja",
+  "Writer": "Michael Rasmussen, Shawn Rasmussen",
+  "Actors": "Kaya Scodelario, Barry Pepper, Morfydd Clark",
+  "Plot": "Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.1",
+  "imdbVotes": "101,339",
+  "imdbID": "tt8364368",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$39,014,193",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

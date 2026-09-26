@@ -1,0 +1,40 @@
+{
+  "Title": "Inferno",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "28 Oct 2016",
+  "Runtime": "121 min",
+  "Genre": "Action, Adventure, Crime",
+  "Director": "Ron Howard",
+  "Writer": "Dan Brown, David Koepp",
+  "Actors": "Tom Hanks, Felicity Jones, Irrfan Khan",
+  "Plot": "Robert Langdon must stop a madman from unleashing a virus that could kill half of the population.",
+  "Language": "English, French, Italian, Turkish",
+  "Country": "United States, Hungary",
+  "Awards": "5 wins & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "23%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "6.2",
+  "imdbVotes": "201,301",
+  "imdbID": "tt3062096",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$34,343,574",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

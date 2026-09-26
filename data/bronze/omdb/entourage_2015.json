@@ -1,0 +1,40 @@
+{
+  "Title": "Entourage",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "03 Jun 2015",
+  "Runtime": "104 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Doug Ellin",
+  "Writer": "Doug Ellin, Rob Weiss",
+  "Actors": "Adrian Grenier, Kevin Connolly, Jerry Ferrara",
+  "Plot": "Movie star Vincent Chase, together with his boys Eric, Turtle, and Johnny, are back - and back in business with super agent-turned-studio head Ari Gold on a risky project that will serve as Vince's directorial debut.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODdiZjQwMGItYTRkOC00NGQyLTliY2YtOWQ1ZjA2YWFiMWI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "Metascore": "38",
+  "imdbRating": "6.5",
+  "imdbVotes": "84,789",
+  "imdbID": "tt1674771",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,363,404",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Lady Bird",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "01 Dec 2017",
+  "Runtime": "94 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Greta Gerwig",
+  "Writer": "Greta Gerwig",
+  "Actors": "Saoirse Ronan, Laurie Metcalf, Tracy Letts",
+  "Plot": "A fiercely independent teenager tries to make her own way in the world while wanting to get out of her hometown of Sacramento, California, and to get away from her complicated mother and recently-unemployed father.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Nominated for 5 Oscars. 124 wins & 228 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjk5MzcyOWQtNzE1Mi00NzdmLTlkM2QtOTdjZThhMDc2Y2NjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "Metascore": "93",
+  "imdbRating": "7.4",
+  "imdbVotes": "363,036",
+  "imdbID": "tt4925292",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$48,958,273",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

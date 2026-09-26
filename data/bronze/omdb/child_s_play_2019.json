@@ -1,0 +1,40 @@
+{
+  "Title": "Child's Play",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "21 Jun 2019",
+  "Runtime": "90 min",
+  "Genre": "Drama, Horror, Sci-Fi",
+  "Director": "Lars Klevberg",
+  "Writer": "Tyler Burton Smith, Don Mancini, John Lafia",
+  "Actors": "Tim Matheson, Ben Daon, Zahra Anderson",
+  "Plot": "A mother gives her 13-year-old son a toy doll for his birthday, unaware of its more sinister nature.",
+  "Language": "English, Vietnamese",
+  "Country": "Canada, United States",
+  "Awards": "2 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzMwZTNkYzktM2EwYS00ZGZlLWJhNmQtZWNhMTBlMDUzOWRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "Metascore": "48",
+  "imdbRating": "5.7",
+  "imdbVotes": "59,807",
+  "imdbID": "tt8663516",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$29,208,403",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

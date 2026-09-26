@@ -1,0 +1,40 @@
+{
+  "Title": "Sonic the Hedgehog",
+  "Year": "2020",
+  "Rated": "PG",
+  "Released": "14 Feb 2020",
+  "Runtime": "99 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Jeff Fowler",
+  "Writer": "Pat Casey, Josh Miller, Yuji Naka",
+  "Actors": "Ben Schwartz, James Marsden, Jim Carrey",
+  "Plot": "Taking refuge on Earth, when Sonic uses his incredible speed and accidentally knock out the power in part of the United States, he catches the attention of Dr. Robotnik and must stop him from using his unique power for world domin...",
+  "Language": "English, French, Persian",
+  "Country": "United States, Japan, Canada, United Kingdom",
+  "Awards": "3 wins & 12 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "6.5",
+  "imdbVotes": "192,228",
+  "imdbID": "tt3794354",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$148,974,665",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

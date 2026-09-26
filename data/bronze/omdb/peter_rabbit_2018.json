@@ -1,0 +1,36 @@
+{
+  "Title": "Peter Rabbit",
+  "Year": "2018",
+  "Rated": "PG",
+  "Released": "09 Feb 2018",
+  "Runtime": "95 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Will Gluck",
+  "Writer": "Rob Lieber, Will Gluck, Beatrix Potter",
+  "Actors": "James Corden, Fayssal Bazzi, Domhnall Gleeson",
+  "Plot": "A rabbit sneaks into a garden to steal food, and they get a new challenge with a new owner.",
+  "Language": "English",
+  "Country": "United Kingdom, Australia, United States",
+  "Awards": "4 wins & 18 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzI0ODUwN15BMl5BanBnXkFtZTgwOTIxNjA0NDM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "Metascore": "51",
+  "imdbRating": "6.6",
+  "imdbVotes": "52,407",
+  "imdbID": "tt5117670",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$115,253,424",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Beast",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "11 May 2018",
+  "Runtime": "107 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Michael Pearce",
+  "Writer": "Michael Pearce",
+  "Actors": "Jessie Buckley, Geraldine James, Oliver Maltman",
+  "Plot": "A troubled woman living in an isolated community finds herself pulled between the control of her oppressive family and the allure of a secretive outsider suspected of a series of brutal murders.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "Won 1 BAFTA Award. 8 wins & 25 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTIwNzRiNTMtMGFlNi00YzUzLTk2NGUtOWQ0YjNkNjc0NjNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "6.8",
+  "imdbVotes": "18,846",
+  "imdbID": "tt5628302",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$800,365",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

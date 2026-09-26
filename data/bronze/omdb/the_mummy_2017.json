@@ -1,0 +1,40 @@
+{
+  "Title": "The Mummy",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "09 Jun 2017",
+  "Runtime": "110 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Alex Kurtzman",
+  "Writer": "David Koepp, Christopher McQuarrie, Dylan Kussman",
+  "Actors": "Tom Cruise, Sofia Boutella, Annabelle Wallis",
+  "Plot": "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia and terrors that defy human comprehension.",
+  "Language": "English, Egyptian (Ancient)",
+  "Country": "United States, China, Japan",
+  "Awards": "4 wins & 18 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "Metascore": "34",
+  "imdbRating": "5.4",
+  "imdbVotes": "220,647",
+  "imdbID": "tt2345759",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$80,227,895",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

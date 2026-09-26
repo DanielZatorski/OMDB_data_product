@@ -1,0 +1,36 @@
+{
+  "Title": "The Card Counter",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "10 Sep 2021",
+  "Runtime": "111 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Paul Schrader",
+  "Writer": "Paul Schrader",
+  "Actors": "Oscar Isaac, Tiffany Haddish, Tye Sheridan",
+  "Plot": "William Tell is an ex-military interrogator living under the radar as a low-stakes gambler. When he encounters a young man looking to commit revenge against a mutual enemy, he takes him on the casino circuit to set him on a new path.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, China, Sweden",
+  "Awards": "3 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.2",
+  "imdbVotes": "45,772",
+  "imdbID": "tt11196036",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,657,850",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

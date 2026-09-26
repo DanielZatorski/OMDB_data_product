@@ -1,0 +1,40 @@
+{
+  "Title": "Alpha",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "17 Aug 2018",
+  "Runtime": "96 min",
+  "Genre": "Adventure, Drama",
+  "Director": "Albert Hughes",
+  "Writer": "Daniele Wiedenhaupt, Albert Hughes",
+  "Actors": "Kodi Smit-McPhee, J\u00f3hannes Haukur J\u00f3hannesson, Marcin Kowalczyk",
+  "Plot": "In the prehistoric past, a young man struggles to return home after being separated from his tribe during a buffalo hunt. He finds a similarly lost wolf companion and starts a friendship that would change humanity.",
+  "Language": "English",
+  "Country": "United States, Canada, China",
+  "Awards": "2 wins total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODI4OTk1ODY3N15BMl5BanBnXkFtZTgwMDI1MTcwNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "Metascore": "63",
+  "imdbRating": "6.6",
+  "imdbVotes": "71,350",
+  "imdbID": "tt4244998",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$35,857,181",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

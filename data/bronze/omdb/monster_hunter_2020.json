@@ -1,0 +1,36 @@
+{
+  "Title": "Monster Hunter",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "18 Dec 2020",
+  "Runtime": "103 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Paul W.S. Anderson",
+  "Writer": "Paul W.S. Anderson, Kaname Fujioka",
+  "Actors": "Milla Jovovich, Tony Jaa, Ron Perlman",
+  "Plot": "When Cpt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers.",
+  "Language": "English, Spanish",
+  "Country": "Germany, United States, Japan, China, South Africa, Canada",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2E0NWQxOTgtNzQ0OC00OGM0LTk4OTQtMzAwYTVjZTdjNGY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "5.2",
+  "imdbVotes": "74,503",
+  "imdbID": "tt6475714",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,162,470",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

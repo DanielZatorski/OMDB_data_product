@@ -1,0 +1,40 @@
+{
+  "Title": "Yesterday",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "28 Jun 2019",
+  "Runtime": "116 min",
+  "Genre": "Comedy, Fantasy, Music",
+  "Director": "Danny Boyle",
+  "Writer": "Richard Curtis, Jack Barth",
+  "Actors": "Himesh Patel, Lily James, Sophia Di Martino",
+  "Plot": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where they never existed.",
+  "Language": "English, Portuguese, Japanese",
+  "Country": "United Kingdom, China, Japan, United States",
+  "Awards": "2 wins & 19 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "6.8",
+  "imdbVotes": "183,673",
+  "imdbID": "tt8079248",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$73,286,650",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

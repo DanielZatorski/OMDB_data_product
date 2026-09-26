@@ -1,0 +1,40 @@
+{
+  "Title": "Baby Driver",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "28 Jun 2017",
+  "Runtime": "113 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Edgar Wright",
+  "Writer": "Edgar Wright",
+  "Actors": "Ansel Elgort, Jon Bernthal, Jon Hamm",
+  "Plot": "Coerced into working for a crime boss, a young getaway driver must face the music when a doomed heist threatens his life, love, and freedom.",
+  "Language": "English, American Sign Language",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 3 Oscars. 43 wins & 66 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "7.5",
+  "imdbVotes": "682,380",
+  "imdbID": "tt3890160",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$107,825,862",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

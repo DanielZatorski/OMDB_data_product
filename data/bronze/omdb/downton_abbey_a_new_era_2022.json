@@ -1,0 +1,40 @@
+{
+  "Title": "Downton Abbey: A New Era",
+  "Year": "2022",
+  "Rated": "PG",
+  "Released": "20 May 2022",
+  "Runtime": "124 min",
+  "Genre": "Drama, Romance",
+  "Director": "Simon Curtis",
+  "Writer": "Julian Fellowes",
+  "Actors": "Hugh Bonneville, Jim Carter, Michelle Dockery",
+  "Plot": "The Crawleys go on a grand journey to the south of France to uncover the mystery of the Dowager Countess' newly inherited villa.",
+  "Language": "English, French",
+  "Country": "United Kingdom, United States",
+  "Awards": "4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZGI2OGYtYzYyZS00NzdkLThjYmQtNTI2N2RlMTg3ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "Metascore": "63",
+  "imdbRating": "7.4",
+  "imdbVotes": "37,911",
+  "imdbID": "tt11703710",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,141,550",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

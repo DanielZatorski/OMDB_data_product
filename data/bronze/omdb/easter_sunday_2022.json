@@ -1,0 +1,40 @@
+{
+  "Title": "Easter Sunday",
+  "Year": "2022",
+  "Rated": "PG-13",
+  "Released": "05 Aug 2022",
+  "Runtime": "96 min",
+  "Genre": "Comedy",
+  "Director": "Jay Chandrasekhar",
+  "Writer": "Kate Angelo, Ken Cheng",
+  "Actors": "Jo Koy, Lydia Gaston, Brandon Wardell",
+  "Plot": "Set around a family gathering to celebrate Easter Sunday, the comedy is based on Jo Koy's life experiences and stand-up comedy.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTk4N2YyODEtMjhjOS00M2Q5LWE0YWMtYWY3YzY4ODJlOTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "5.3",
+  "imdbVotes": "3,047",
+  "imdbID": "tt11952606",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$13,013,690",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

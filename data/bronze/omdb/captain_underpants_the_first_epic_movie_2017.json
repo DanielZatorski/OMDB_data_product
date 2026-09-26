@@ -1,0 +1,40 @@
+{
+  "Title": "Captain Underpants: The First Epic Movie",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "02 Jun 2017",
+  "Runtime": "89 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "David Soren",
+  "Writer": "Nicholas Stoller, Dav Pilkey, David Soren",
+  "Actors": "Kevin Hart, Thomas Middleditch, Ed Helms",
+  "Plot": "Two overly-imaginative pranksters hypnotize their grumpy principal into thinking he's a ridiculously enthusiastic, incredibly dimwitted, underwear-themed superhero.",
+  "Language": "English, German",
+  "Country": "United States, Canada, France",
+  "Awards": "3 wins & 15 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2FlOTgyOTctMTE1Ny00MzFhLWE5NjctNTMxNzM5N2I2Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "6.2",
+  "imdbVotes": "35,075",
+  "imdbID": "tt2091256",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$73,921,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

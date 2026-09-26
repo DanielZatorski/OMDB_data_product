@@ -1,0 +1,40 @@
+{
+  "Title": "Sonic the Hedgehog 2",
+  "Year": "2022",
+  "Rated": "PG",
+  "Released": "08 Apr 2022",
+  "Runtime": "122 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Jeff Fowler",
+  "Writer": "Pat Casey, Josh Miller, John Whittington",
+  "Actors": "James Marsden, Jim Carrey, Ben Schwartz",
+  "Plot": "When Dr. Robotnik returns with a new partner, Knuckles, in search of an emerald that has the power to destroy civilizations, Sonic teams up with his own sidekick, Tails, on a journey across the world to find the emerald first.",
+  "Language": "English, Russian, French, Latin, Hawaiian, Greek",
+  "Country": "United States, Japan",
+  "Awards": "2 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "6.5",
+  "imdbVotes": "115,967",
+  "imdbID": "tt12412888",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$190,872,904",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

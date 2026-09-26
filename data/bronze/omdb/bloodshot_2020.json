@@ -1,0 +1,40 @@
+{
+  "Title": "Bloodshot",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "13 Mar 2020",
+  "Runtime": "109 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Dave Wilson",
+  "Writer": "Jeff Wadlow, Eric Heisserer, Kevin VanHook",
+  "Actors": "Vin Diesel, Eiza Gonz\u00e1lez, Sam Heughan",
+  "Plot": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+  "Language": "English, Persian",
+  "Country": "United States, Canada, South Africa, China",
+  "Awards": "1 win & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "5.7",
+  "imdbVotes": "90,285",
+  "imdbID": "tt1634106",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$12,561,824",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

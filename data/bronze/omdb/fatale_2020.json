@@ -1,0 +1,40 @@
+{
+  "Title": "Fatale",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "18 Dec 2020",
+  "Runtime": "102 min",
+  "Genre": "Drama, Mystery, Romance",
+  "Director": "Deon Taylor",
+  "Writer": "David Loughery",
+  "Actors": "Hilary Swank, Michael Ealy, Mike Colter",
+  "Plot": "After a one-night stand, a successful married man finds himself entangled in a cunning police detective's latest investigation.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTdjMTE2ODctODZjNS00NTJmLThjNTgtOGJhZjliMDU1NjYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "5.5",
+  "imdbVotes": "15,706",
+  "imdbID": "tt8829830",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$6,306,897",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

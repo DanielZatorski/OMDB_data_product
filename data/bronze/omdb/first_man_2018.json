@@ -1,0 +1,40 @@
+{
+  "Title": "First Man",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "12 Oct 2018",
+  "Runtime": "141 min",
+  "Genre": "Biography, Drama, History",
+  "Director": "Damien Chazelle",
+  "Writer": "Josh Singer, James R. Hansen",
+  "Actors": "Ryan Gosling, Claire Foy, Jason Clarke",
+  "Plot": "A look back at the life of astronaut Neil Armstrong and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+  "Language": "English",
+  "Country": "United States, China, Japan",
+  "Awards": "Won 1 Oscar. 32 wins & 192 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzYmViN2UtMDRhYy00OTMwLWI5YzctMTQxYzg2ODMwMTIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "7.3",
+  "imdbVotes": "214,353",
+  "imdbID": "tt1213641",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,936,545",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

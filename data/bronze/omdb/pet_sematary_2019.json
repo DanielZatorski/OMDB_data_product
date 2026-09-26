@@ -1,0 +1,40 @@
+{
+  "Title": "Pet Sematary",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "05 Apr 2019",
+  "Runtime": "100 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Kevin K\u00f6lsch, Dennis Widmyer",
+  "Writer": "Stephen King, Matt Greenberg, Jeff Buhler",
+  "Actors": "Jason Clarke, Amy Seimetz, John Lithgow",
+  "Plot": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "1 win & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ0ZTQ2NTQtNGQ3MS00YTdlLThlOTAtZDBiZDkzNDk1MDk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "Metascore": "57",
+  "imdbRating": "5.7",
+  "imdbVotes": "102,427",
+  "imdbID": "tt0837563",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$54,724,696",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

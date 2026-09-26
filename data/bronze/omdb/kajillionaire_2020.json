@@ -1,0 +1,40 @@
+{
+  "Title": "Kajillionaire",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "25 Sep 2020",
+  "Runtime": "104 min",
+  "Genre": "Comedy, Crime, Drama",
+  "Director": "Miranda July",
+  "Writer": "Miranda July",
+  "Actors": "Richard Jenkins, Debra Winger, Evan Rachel Wood",
+  "Plot": "A woman's life is turned upside down when her criminal parents invite an outsider to join them on a major heist they're planning.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjliN2U3NTMtZDNmNy00MWJmLWFlMzgtOTFjNDBlOWZiYTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.4",
+  "imdbVotes": "23,541",
+  "imdbID": "tt8143990",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$531,430",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

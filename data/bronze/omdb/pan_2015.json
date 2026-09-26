@@ -1,0 +1,40 @@
+{
+  "Title": "Pan",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "09 Oct 2015",
+  "Runtime": "111 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Joe Wright",
+  "Writer": "Jason Fuchs, J.M. Barrie",
+  "Actors": "Levi Miller, Hugh Jackman, Garrett Hedlund",
+  "Plot": "Twelve-year-old orphan Peter is spirited away to the magical world of Neverland, where he finds both fun and danger, and ultimately discovers his destiny: to become the hero who will be forever known as Peter Pan.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Australia, India, Canada",
+  "Awards": "8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzk2MDg5MDczMl5BMl5BanBnXkFtZTgwNTE2NjYyNjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "Metascore": "36",
+  "imdbRating": "5.7",
+  "imdbVotes": "69,251",
+  "imdbID": "tt3332064",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$35,088,320",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
