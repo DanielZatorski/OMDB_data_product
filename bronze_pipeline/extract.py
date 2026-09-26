@@ -1,6 +1,6 @@
 import pandas as pd
 
-from pipeline.config import BOX_OFFICE_CSV
+from bronze_pipeline.config import BOX_OFFICE_CSV
 
 
 def extract() -> pd.DataFrame:

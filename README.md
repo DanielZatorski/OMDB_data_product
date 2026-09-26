@@ -20,7 +20,7 @@ The pipeline follows a medallion architecture — bronze, silver, gold — so OM
 
 At first dataset glance we can clearly see a movie release date and its daily revenue in total aggregated theaters it was broadcast. This will allow me to choose a movie total revenue for top 950 movies to fetch data from OMDb to start with.
 
-After the analysis of a movie "I, Robot" found in **data_exploration.ipynb** I decided to build the data product starting from defining data related questions and then defining KPIs for the data which will be presented in the dashboard, once it is defined data model and ingestion can be built:
+After the analysis of a movie "I, Robot" found in **data_exploration.py** (`data_exploration/`) I decided to build the data product starting from defining data related questions and then defining KPIs for the data which will be presented in the dashboard, once it is defined data model and ingestion can be built:
  
 ### CSV only
  
@@ -115,21 +115,37 @@ The CSV has no index column to drop — all 6 columns are named. The `id` column
  
 As a proof of concept, this project's warehouse holds 950 movies. The limit comes from the API: the free OMDb key allows 1,000 requests per day, so 950 lookups fit in one day, leaving room for ~50 retries.
  
-- **Movie identity:** title + year of the first revenue date (titles repeat for remakes).
+- **Movie identity:** title + year of the first revenue date (titles repeat for remakes). Titles are normalized (punctuation stripped, lowercased) before grouping, since the same movie can appear under slightly different spellings in the CSV (e.g. "Jurassic World Dominion" vs "Jurassic World: Dominion") — without this, one movie's revenue would silently split into two fake entries.
 - **Selection rule (proposed):** top 95 movies by total gross per year, for the 10 most recent complete years in the CSV. This keeps years balanced for the per-year questions (Q1, Q3, Q8).
 - **Selection happens before any API call**, so OMDb is called only for the chosen movies.
 - **Failed lookups** are kept as unmatched (`omdb_matched = false`) and counted in the match rate.
 
 ### Pipeline order
- 
+
+The pipeline is two separate commands, run in order — selection is a deliberate, manual step, not something the pipeline decides on its own each run.
+
+**`python -m bronze_pipeline.selection`** — decides which movies to fetch, writes `bronze_pipeline/selected_movies.csv`:
 1. **Extract** *(Python)*: read the full CSV.
 2. **Aggregate** *(Python)*: one row per movie (title + release year) with total gross.
 3. **Select** *(Python)*: apply the selection rule and save the list of 950 movies.
+
+**`python -m bronze_pipeline.run`** — reads that CSV and runs the rest of the pipeline against it:
 4. **Call OMDb** *(Python)*: one request per selected movie; save the raw JSON to bronze; log failures.
 5. **Load raw** *(Python)*: write the selected CSV rows and the raw OMDb fields into DuckDB's `raw` schema, unmodified — this is dbt's source data.
+
+**dbt** — runs separately against `raw.*`:
 6. **Stage** *(dbt)*: staging models clean and type the raw tables into `stg_box_office`/`stg_omdb` — fix types, convert `"N/A"`/`"-"` to null, parse `imdbVotes` ("611,841" → 611841).
 7. **Build marts** *(dbt)*: mart models join staging on title + release year and build the gold tables from section 6.
 8. **Test** *(dbt)*: dbt tests implement the section 4 checks (uniqueness, not-null, match rate) directly against staging and marts.
+
+`run_pipeline.py` (repo root) wraps steps 4–8 as one orchestrator, so each can be run individually or all together:
+```
+python run_pipeline.py select      # steps 1-3, manual and deliberate — see above
+python run_pipeline.py fetch       # steps 4-5
+python run_pipeline.py dbt-run     # steps 6-7
+python run_pipeline.py dbt-test    # step 8
+python run_pipeline.py all         # fetch -> dbt-run -> dbt-test, in order (select stays manual)
+```
 ---
  
 ## 6. Data model

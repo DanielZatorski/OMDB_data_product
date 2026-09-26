@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: stg_box_office
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+      - name: revenue
+        tests:
+          - not_null
+      - name: theaters
+        tests:
+          - not_null:
+              config:
+                severity: warn
+      - name: distributor
+        tests:
+          - not_null:
+              config:
+                severity: warn
+
+  - name: stg_omdb
+    columns:
+      - name: requested_title
+        tests:
+          - not_null
+      - name: requested_year
+        tests:
+          - not_null
+      - name: imdb_id
+        tests:
+          - unique:
+              config:
+                severity: error
+                where: "omdb_matched"

@@ -1,8 +1,8 @@
 import duckdb
 import pandas as pd
 
-from pipeline.config import DUCKDB_PATH
-from pipeline.bronze.selection import title_key
+from bronze_pipeline.config import DUCKDB_PATH
+from bronze_pipeline.selection import title_key
 
 
 def load_raw(box_office_df: pd.DataFrame, selected_movies: pd.DataFrame, omdb_df: pd.DataFrame) -> None:
