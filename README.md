@@ -8,11 +8,13 @@ The **free tier** allows 1000 requests per day, so the project selects a fixed l
 
 The pipeline follows a medallion architecture — bronze, silver, gold — so OMDb is called at most once per movie, no matter how many times the pipeline reruns.
 
+**Tooling:** Python (extract, select, OMDb calls, landing raw data) + dbt-duckdb (staging → gold transformations and tests), both reading/writing one embedded warehouse file, `data/warehouse.duckdb` — no external database server.
+
 | Layer | Contents | Location |
 |---|---|---|
-| Bronze | Raw CSV as delivered, raw OMDb JSON (one file per movie, full response) | `data/bronze/` |
-| Silver | Cleaned, typed staging tables — `stg_box_office`, `stg_omdb` | `data/silver/` |
-| Gold | Star schema for the dashboard — `fact_movie_performance`, `dim_movie`, `dim_distributor`, `dim_date`, `movie_genre` | `data/gold/` |
+| Bronze | Raw CSV as delivered, raw OMDb JSON (one file per movie, full response) — landed as-is into DuckDB's `raw` schema so dbt has sources to build from | `data/bronze/` (files) + `raw` schema in `data/warehouse.duckdb` |
+| Silver | Cleaned, typed staging tables — `stg_box_office`, `stg_omdb` — built by dbt staging models | `staging` schema in `data/warehouse.duckdb` |
+| Gold | Star schema for the dashboard — `fact_movie_performance`, `dim_movie`, `dim_distributor`, `dim_date`, `movie_genre` — built by dbt marts models | `marts` schema in `data/warehouse.duckdb` |
 
 ## 1. Data questions
 
@@ -120,14 +122,14 @@ As a proof of concept, this project's warehouse holds 950 movies. The limit come
 
 ### Pipeline order
  
-1. **Extract:** read the full CSV.
-2. **Aggregate:** one row per movie (title + release year) with total gross.
-3. **Select:** apply the selection rule and save the list of 950 movies.
-4. **Call OMDb:** one request per selected movie; save the raw JSON; log failures.
-5. **Clean and load staging:** filter the CSV to the selected movies; fix types (dates, integers); trim text; convert `"N/A"` and `"-"` to null; parse `imdbVotes` ("611,841" → 611841).
-6. **Join:** match CSV movies to OMDb on title + release year.
-7. **Build tables:** create the tables in section 6.
-8. **Test:** run the checks in section 4.
+1. **Extract** *(Python)*: read the full CSV.
+2. **Aggregate** *(Python)*: one row per movie (title + release year) with total gross.
+3. **Select** *(Python)*: apply the selection rule and save the list of 950 movies.
+4. **Call OMDb** *(Python)*: one request per selected movie; save the raw JSON to bronze; log failures.
+5. **Load raw** *(Python)*: write the selected CSV rows and the raw OMDb fields into DuckDB's `raw` schema, unmodified — this is dbt's source data.
+6. **Stage** *(dbt)*: staging models clean and type the raw tables into `stg_box_office`/`stg_omdb` — fix types, convert `"N/A"`/`"-"` to null, parse `imdbVotes` ("611,841" → 611841).
+7. **Build marts** *(dbt)*: mart models join staging on title + release year and build the gold tables from section 6.
+8. **Test** *(dbt)*: dbt tests implement the section 4 checks (uniqueness, not-null, match rate) directly against staging and marts.
 ---
  
 ## 6. Data model
