@@ -1,0 +1,53 @@
+// OMDB_data_product — gold layer star schema
+// Source: README.md section 6 ("Data model")
+// Import at https://dbdiagram.io/d
+
+Table dim_movie {
+  movie_key integer [pk]
+  title varchar
+  release_year integer [note: 'Denormalized from dim_date via fact.release_date_key so the dashboard can filter/group by year without a join — standard practice for a dimension table in a star schema, not an oversight.']
+  imdb_id varchar
+  omdb_matched boolean
+
+  Note: 'One row per movie (title + release year). Movie identity per README section 5: title + year of the first revenue date.'
+}
+
+Table dim_distributor {
+  distributor_key integer [pk]
+  distributor_name varchar
+}
+
+Table dim_date {
+  date_key integer [pk]
+  date date
+  year integer
+  month integer
+  month_name varchar
+}
+
+Table movie_genre {
+  movie_key integer [ref: > dim_movie.movie_key]
+  genre varchar
+
+  Indexes {
+    (movie_key, genre) [pk]
+  }
+
+  Note: 'Bridge table — genre is multi-valued (OMDb Genre is comma-separated), so it cannot sit on dim_movie as a single column (README rule R4).'
+}
+
+Table fact_movie_performance {
+  movie_key integer [pk, ref: > dim_movie.movie_key]
+  distributor_key integer [ref: > dim_distributor.distributor_key]
+  release_date_key integer [ref: > dim_date.date_key]
+  opening_theaters integer
+  is_wide_release boolean
+  total_gross bigint
+  opening_week_gross bigint
+  opening_week_per_theater decimal
+  legs_multiplier decimal
+  imdb_rating decimal
+  imdb_votes integer
+
+  Note: 'Grain: one row per movie (title + release year). Market share % is not stored here — calculated at query time (README section 2), since its value depends on the active dashboard filters.'
+}
