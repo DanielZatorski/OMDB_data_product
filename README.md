@@ -154,5 +154,7 @@ One fact table (the measures) plus dimensions (the descriptive attributes) — t
 | `movie_genre` | bridge | movie × genre | genre questions (Q6, Q7) — genre is multi-valued, so it can't sit on `dim_movie` as a single column |
  
 Full column definitions, keys, relationships, and design notes (fact grain, denormalization choices) live in `data_model.dbml` (dbdiagram.io) rather than here, so the schema has one searchable, diffable source of truth instead of duplicating it in prose.
+
+![ER diagram — gold layer star schema](ER_diagram_gold.png)
  
 ---
