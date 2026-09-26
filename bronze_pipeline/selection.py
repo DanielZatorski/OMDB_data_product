@@ -9,8 +9,8 @@ import re
 
 import pandas as pd
 
-from pipeline.config import MOVIES_INPUT_CSV, MOVIES_PER_YEAR, YEARS_SELECTED
-from pipeline.bronze.extract import extract
+from bronze_pipeline.config import MOVIES_INPUT_CSV, MOVIES_PER_YEAR, YEARS_SELECTED
+from bronze_pipeline.extract import extract
 
 
 def title_key(title: str) -> str:

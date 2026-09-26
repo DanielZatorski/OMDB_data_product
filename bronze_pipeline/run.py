@@ -1,9 +1,9 @@
 import pandas as pd
 
-from pipeline.config import MOVIES_INPUT_CSV
-from pipeline.bronze.extract import extract
-from pipeline.bronze.fetch_omdb import fetch_all
-from pipeline.bronze.load_raw import load_raw
+from bronze_pipeline.config import MOVIES_INPUT_CSV
+from bronze_pipeline.extract import extract
+from bronze_pipeline.fetch_omdb import fetch_all
+from bronze_pipeline.load_raw import load_raw
 
 
 def main():

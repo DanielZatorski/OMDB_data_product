@@ -5,7 +5,7 @@ import time
 import pandas as pd
 import requests
 
-from pipeline.config import OMDB_API_KEY, OMDB_BASE_URL, OMDB_BRONZE_DIR
+from bronze_pipeline.config import OMDB_API_KEY, OMDB_BASE_URL, OMDB_BRONZE_DIR
 
 MAX_RETRIES = 2
 RETRY_DELAY_SECONDS = 1
