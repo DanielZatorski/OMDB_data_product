@@ -1,0 +1,40 @@
+{
+  "Title": "Clifford the Big Red Dog",
+  "Year": "2021",
+  "Rated": "PG",
+  "Released": "10 Nov 2021",
+  "Runtime": "96 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Walt Becker",
+  "Writer": "Jay Scherick, David Ronn, Blaise Hemingway",
+  "Actors": "Darby Camp, Jack Whitehall, Izaac Wang",
+  "Plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+  "Language": "English, Spanish, Russian, Mandarin",
+  "Country": "United States",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZTI4ODEtNzEwYS00OTBmLTliMTMtYWUyZjc3Y2RhN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "5.9",
+  "imdbVotes": "18,630",
+  "imdbID": "tt2397461",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$48,947,356",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

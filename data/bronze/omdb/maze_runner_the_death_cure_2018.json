@@ -1,0 +1,40 @@
+{
+  "Title": "Maze Runner: The Death Cure",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "26 Jan 2018",
+  "Runtime": "143 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Wes Ball",
+  "Writer": "T.S. Nowlin, James Dashner",
+  "Actors": "Dylan O'Brien, Ki Hong Lee, Kaya Scodelario",
+  "Plot": "In a desperate attempt to save their friends, the Gladers try to infiltrate a fortified city and make it out alive.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "6.3",
+  "imdbVotes": "188,591",
+  "imdbID": "tt4500922",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$58,032,443",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

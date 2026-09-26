@@ -1,0 +1,40 @@
+{
+  "Title": "Hacksaw Ridge",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "04 Nov 2016",
+  "Runtime": "139 min",
+  "Genre": "Biography, Drama, History",
+  "Director": "Mel Gibson",
+  "Writer": "Robert Schenkkan, Andrew Knight",
+  "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+  "Plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+  "Language": "English, Japanese",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 57 wins & 115 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX380_CR0,12,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "8.1",
+  "imdbVotes": "679,234",
+  "imdbID": "tt2119532",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$67,209,615",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

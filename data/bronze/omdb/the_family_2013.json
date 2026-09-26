@@ -1,0 +1,40 @@
+{
+  "Title": "The Family",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "13 Sep 2013",
+  "Runtime": "111 min",
+  "Genre": "Comedy, Crime, Thriller",
+  "Director": "Luc Besson",
+  "Writer": "Luc Besson, Michael Caleo, Tonino Benacquista",
+  "Actors": "Robert De Niro, Michelle Pfeiffer, Dianna Agron",
+  "Plot": "The Manzoni family, a notorious Mafia clan, is relocated to Normandy, France, under the Witness Protection Program, where fitting in soon becomes challenging as their old habits die hard.",
+  "Language": "English, French, Italian",
+  "Country": "France, United Kingdom, United States",
+  "Awards": "1 win & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "6.3",
+  "imdbVotes": "127,136",
+  "imdbID": "tt2404311",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$36,918,811",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

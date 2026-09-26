@@ -1,0 +1,40 @@
+{
+  "Title": "Resident Evil: Welcome to Raccoon City",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "24 Nov 2021",
+  "Runtime": "107 min",
+  "Genre": "Action, Horror, Sci-Fi",
+  "Director": "Johannes Roberts",
+  "Writer": "Johannes Roberts",
+  "Actors": "Kaya Scodelario, Robbie Amell, Hannah John-Kamen",
+  "Plot": "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
+  "Language": "English",
+  "Country": "Canada, Germany",
+  "Awards": "1 win & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDA5MTZlZDEtYzhiYi00MWIyLWI1NWMtNTA0OGY4NWI5ZGVlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "5.2",
+  "imdbVotes": "71,905",
+  "imdbID": "tt6920084",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$17,000,612",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Call",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "15 Mar 2013",
+  "Runtime": "94 min",
+  "Genre": "Drama, Horror, Thriller",
+  "Director": "Brad Anderson",
+  "Writer": "Richard D'Ovidio, Nicole D'Ovidio, Jon Bokenkamp",
+  "Actors": "Halle Berry, Evie Thompson, Abigail Breslin",
+  "Plot": "When a veteran 911 operator takes a life-altering call from a teenage girl who has just been abducted, she realizes that she must confront a killer from her past in order to save the girl's life.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNDkzNjAwOV5BMl5BanBnXkFtZTcwMDMzMzQwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "Metascore": "51",
+  "imdbRating": "6.7",
+  "imdbVotes": "133,748",
+  "imdbID": "tt1911644",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$51,872,378",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

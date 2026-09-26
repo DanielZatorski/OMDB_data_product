@@ -1,0 +1,40 @@
+{
+  "Title": "The Nun",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "07 Sep 2018",
+  "Runtime": "96 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Corin Hardy",
+  "Writer": "Gary Dauberman, James Wan",
+  "Actors": "Demi\u00e1n Bichir, Taissa Farmiga, Jonas Bloquet",
+  "Plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+  "Language": "English, French, Romanian, Latin",
+  "Country": "United States",
+  "Awards": "2 wins & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "24%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Metascore": "46",
+  "imdbRating": "5.4",
+  "imdbVotes": "194,981",
+  "imdbID": "tt5814060",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$117,481,222",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

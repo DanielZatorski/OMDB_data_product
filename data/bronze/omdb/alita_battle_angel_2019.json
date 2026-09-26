@@ -1,0 +1,40 @@
+{
+  "Title": "Alita: Battle Angel",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "14 Feb 2019",
+  "Runtime": "122 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Robert Rodriguez",
+  "Writer": "James Cameron, Laeta Kalogridis, Yukito Kishiro",
+  "Actors": "Rosa Salazar, Christoph Waltz, Jennifer Connelly",
+  "Plot": "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
+  "Language": "English, Spanish",
+  "Country": "United States, Japan, Canada",
+  "Awards": "10 wins & 25 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "7.3",
+  "imdbVotes": "321,252",
+  "imdbID": "tt0437086",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$85,838,210",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

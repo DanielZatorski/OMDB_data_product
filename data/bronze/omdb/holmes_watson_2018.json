@@ -1,0 +1,40 @@
+{
+  "Title": "Holmes & Watson",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2018",
+  "Runtime": "90 min",
+  "Genre": "Comedy, Crime, Mystery",
+  "Director": "Etan Cohen",
+  "Writer": "Etan Cohen, Arthur Conan Doyle",
+  "Actors": "Will Ferrell, John C. Reilly, Ralph Fiennes",
+  "Plot": "A humorous take on Sir Arthur Conan Doyle's classic mysteries featuring Sherlock Holmes and Doctor Watson.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "4 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5OWFlZDEtZTY5NS00ZGI0LWJjMmEtZGM5MzA5YWJkMjM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "10%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "24/100"
+    }
+  ],
+  "Metascore": "24",
+  "imdbRating": "3.9",
+  "imdbVotes": "41,112",
+  "imdbID": "tt1255919",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$30,573,626",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

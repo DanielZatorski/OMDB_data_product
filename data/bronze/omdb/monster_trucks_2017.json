@@ -1,0 +1,40 @@
+{
+  "Title": "Monster Trucks",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "13 Jan 2017",
+  "Runtime": "104 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Chris Wedge",
+  "Writer": "Derek Connolly, Matthew Robinson, Jonathan Aibel",
+  "Actors": "Lucas Till, Jane Levy, Thomas Lennon",
+  "Plot": "A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMjAzMDk4ODZeQTJeQWpwZ15BbWU4MDUxNzMzMDEy._V1_QL75_UX380_CR0,16,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "5.7",
+  "imdbVotes": "20,761",
+  "imdbID": "tt3095734",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$33,370,166",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

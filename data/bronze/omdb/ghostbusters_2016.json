@@ -1,0 +1,40 @@
+{
+  "Title": "Ghostbusters",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "15 Jul 2016",
+  "Runtime": "117 min",
+  "Genre": "Action, Comedy, Fantasy",
+  "Director": "Paul Feig",
+  "Writer": "Katie Dippold, Paul Feig, Ivan Reitman",
+  "Actors": "Melissa McCarthy, Kristen Wiig, Kate McKinnon",
+  "Plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+  "Language": "English",
+  "Country": "United States, Australia",
+  "Awards": "5 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.8",
+  "imdbVotes": "258,587",
+  "imdbID": "tt1289401",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$128,350,574",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

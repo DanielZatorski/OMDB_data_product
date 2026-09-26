@@ -1,0 +1,40 @@
+{
+  "Title": "Zola",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "30 Jun 2021",
+  "Runtime": "86 min",
+  "Genre": "Comedy, Crime, Drama",
+  "Director": "Janicza Bravo",
+  "Writer": "Janicza Bravo, Jeremy O. Harris, A&apos;Ziah King",
+  "Actors": "Taylour Paige, Riley Keough, Nicholas Braun",
+  "Plot": "A stripper named Zola embarks on a wild road trip to Florida.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "10 wins & 40 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzhjZGI4NDgtZTk3OC00NDFmLWIwMDAtMGUyNzY2NTM0NjQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "6.4",
+  "imdbVotes": "20,224",
+  "imdbID": "tt5439812",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$4,844,399",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

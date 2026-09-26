@@ -1,0 +1,40 @@
+{
+  "Title": "Spencer",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "05 Nov 2021",
+  "Runtime": "117 min",
+  "Genre": "Biography, Drama",
+  "Director": "Pablo Larra\u00edn",
+  "Writer": "Steven Knight",
+  "Actors": "Kristen Stewart, Timothy Spall, Sally Hawkins",
+  "Plot": "Diana Spencer, struggling with mental-health problems during her Christmas holidays with the Royal Family at their Sandringham estate in Norfolk, England, decides to end her decade-long marriage to Prince Charles.",
+  "Language": "English",
+  "Country": "United Kingdom, Germany, United States, Chile",
+  "Awards": "Nominated for 1 Oscar. 45 wins & 138 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyYzIyMTItNDQzYS00ZmI5LWJlYzItZDk5ZmEyNDlhNWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "6.5",
+  "imdbVotes": "80,526",
+  "imdbID": "tt12536294",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,086,632",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

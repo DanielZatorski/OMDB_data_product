@@ -1,0 +1,36 @@
+{
+  "Title": "A Beautiful Day in the Neighborhood",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "22 Nov 2019",
+  "Runtime": "109 min",
+  "Genre": "Biography, Drama, Family",
+  "Director": "Marielle Heller",
+  "Writer": "Micah Fitzerman-Blue, Noah Harpster, Tom Junod",
+  "Actors": "Matthew Rhys, Tom Hanks, Chris Cooper",
+  "Plot": "Lloyd Vogel, a cynical journalist, gets acquainted with a kind-hearted television host Fred Rogers while writing an article on him. With time, they strike an unlikely friendship.",
+  "Language": "English",
+  "Country": "United States, China",
+  "Awards": "Nominated for 1 Oscar. 10 wins & 65 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5MjVhNDMtMDJhYi00NDJhLWFmZjQtNzc2MWFkYmIzYzU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.2",
+  "imdbVotes": "93,419",
+  "imdbID": "tt3224458",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$61,704,055",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

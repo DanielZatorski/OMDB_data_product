@@ -1,0 +1,40 @@
+{
+  "Title": "The Hunger Games: Mockingjay - Part 2",
+  "Year": "2015",
+  "Rated": "PG-13",
+  "Released": "20 Nov 2015",
+  "Runtime": "137 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Francis Lawrence",
+  "Writer": "Peter Craig, Danny Strong, Suzanne Collins",
+  "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+  "Plot": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+  "Language": "English",
+  "Country": "United States, Germany, Canada, France",
+  "Awards": "15 wins & 34 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "6.6",
+  "imdbVotes": "410,756",
+  "imdbID": "tt1951266",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$281,723,902",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

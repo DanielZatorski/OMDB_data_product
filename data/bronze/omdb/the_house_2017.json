@@ -1,0 +1,40 @@
+{
+  "Title": "The House",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "30 Jun 2017",
+  "Runtime": "88 min",
+  "Genre": "Comedy, Crime",
+  "Director": "Andrew Jay Cohen",
+  "Writer": "Brendan O&apos;Brien, Andrew Jay Cohen",
+  "Actors": "Will Ferrell, Amy Poehler, Ryan Simpkins",
+  "Plot": "After the town takes away their daughter's college scholarship, a couple start an illegal casino in their friend's house to make back the money.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "30/100"
+    }
+  ],
+  "Metascore": "30",
+  "imdbRating": "5.6",
+  "imdbVotes": "51,091",
+  "imdbID": "tt4481514",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,584,504",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

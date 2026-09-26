@@ -1,0 +1,40 @@
+{
+  "Title": "The Lego Movie 2: The Second Part",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "08 Feb 2019",
+  "Runtime": "107 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Mike Mitchell",
+  "Writer": "Phil Lord, Christopher Miller, Matthew Fogel",
+  "Actors": "Chris Pratt, Elizabeth Banks, Will Arnett",
+  "Plot": "It's been five years since everything was awesome and the citizens are facing the huge new threat of Lego Duplo, invaders from outer space, wrecking everything faster than they can rebuild.",
+  "Language": "English",
+  "Country": "Denmark, Norway, Australia, United States",
+  "Awards": "1 win & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "6.5",
+  "imdbVotes": "83,134",
+  "imdbID": "tt3513498",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$105,956,290",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

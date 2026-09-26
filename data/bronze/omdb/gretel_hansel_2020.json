@@ -1,0 +1,40 @@
+{
+  "Title": "Gretel & Hansel",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "31 Jan 2020",
+  "Runtime": "87 min",
+  "Genre": "Fantasy, Horror, Mystery",
+  "Director": "Osgood Perkins",
+  "Writer": "Rob Hayes, Jacob Grimm, Wilhelm Grimm",
+  "Actors": "Sophia Lillis, Samuel Leakey, Alice Krige",
+  "Plot": "In a distant land, two siblings, Hansel and Gretel, wander through the woods in search of food and work. When a mysterious lady offers them a way out, they accept without thinking about the consequences.",
+  "Language": "English",
+  "Country": "Ireland, Canada, United States",
+  "Awards": "4 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGU1NTQwNzQtNDU1YS00YWVkLWJlZDYtODlhZjFkNjI3ODBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "5.5",
+  "imdbVotes": "37,638",
+  "imdbID": "tt9086228",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,347,654",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Rental",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "24 Jul 2020",
+  "Runtime": "88 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Dave Franco",
+  "Writer": "Dave Franco, Joe Swanberg, Mike Demski",
+  "Actors": "Dan Stevens, Alison Brie, Sheila Vand",
+  "Plot": "Two couples rent a vacation home for what should be a celebratory weekend get-away.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0MGNiNzUtNDI4MS00ZmU1LWE4ZWMtYTg2MDJiNTBiYTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "5.7",
+  "imdbVotes": "42,563",
+  "imdbID": "tt10003008",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,637,548",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

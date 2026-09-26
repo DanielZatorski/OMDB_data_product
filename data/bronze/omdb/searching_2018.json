@@ -1,0 +1,40 @@
+{
+  "Title": "Searching",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "31 Aug 2018",
+  "Runtime": "102 min",
+  "Genre": "Drama, Mystery, Thriller",
+  "Director": "Aneesh Chaganty",
+  "Writer": "Aneesh Chaganty, Sev Ohanian",
+  "Actors": "John Cho, Debra Messing, Joseph Lee",
+  "Plot": "After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.",
+  "Language": "English",
+  "Country": "United States, Russia",
+  "Awards": "6 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2ZTk3NDEtZDQ2Mi00MzhjLTgwZWYtOTBkMjUyMGYwMjI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "7.6",
+  "imdbVotes": "189,455",
+  "imdbID": "tt7668870",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$26,020,957",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

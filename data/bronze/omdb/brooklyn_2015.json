@@ -1,0 +1,40 @@
+{
+  "Title": "Brooklyn",
+  "Year": "2015",
+  "Rated": "PG-13",
+  "Released": "25 Nov 2015",
+  "Runtime": "117 min",
+  "Genre": "Drama, Romance",
+  "Director": "John Crowley",
+  "Writer": "Nick Hornby, Colm T\u00f3ib\u00edn",
+  "Actors": "Saoirse Ronan, Emory Cohen, Domhnall Gleeson",
+  "Plot": "An Irish immigrant lands in 1950s Brooklyn, where she quickly falls into a romance with a local. When her past catches up with her, however, she must choose between two countries and the lives that exist within.",
+  "Language": "English, Latin, Irish Gaelic",
+  "Country": "Ireland, United Kingdom, Canada, United States",
+  "Awards": "Nominated for 3 Oscars. 38 wins & 161 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "Metascore": "88",
+  "imdbRating": "7.5",
+  "imdbVotes": "157,845",
+  "imdbID": "tt2381111",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$38,322,743",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

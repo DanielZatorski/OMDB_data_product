@@ -1,0 +1,40 @@
+{
+  "Title": "Aladdin",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "24 May 2019",
+  "Runtime": "128 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Guy Ritchie",
+  "Writer": "John August, Guy Ritchie",
+  "Actors": "Will Smith, Mena Massoud, Naomi Scott",
+  "Plot": "Aladdin, a kind thief, woos Jasmine, the princess of Agrabah, with the help of Genie. When Jafar, the grand vizier, tries to usurp the king, Jasmine, Aladdin and Genie must stop him from succeeding.",
+  "Language": "English, Arabic",
+  "Country": "United States, United Kingdom, Singapore, Canada, Czech Republic, Serbia, China",
+  "Awards": "9 wins & 39 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.9",
+  "imdbVotes": "312,476",
+  "imdbID": "tt6139732",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$355,559,216",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

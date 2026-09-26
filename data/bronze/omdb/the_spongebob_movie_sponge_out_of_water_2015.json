@@ -1,0 +1,40 @@
+{
+  "Title": "The SpongeBob Movie: Sponge Out of Water",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "06 Feb 2015",
+  "Runtime": "92 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Paul Tibbitt, Mike Mitchell",
+  "Writer": "Jonathan Aibel, Glenn Berger, Stephen Hillenburg",
+  "Actors": "Tom Kenny, Antonio Banderas, Bill Fagerbakke",
+  "Plot": "When a diabolical pirate above the sea steals the secret Krabby Patty formula, SpongeBob and his friends team up in order to get it back.",
+  "Language": "English",
+  "Country": "United States, South Korea, Australia",
+  "Awards": "1 win & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDhlMDM3ZDUtMGNhZi00ZTFmLTg1YjYtZTM3ZTE1MGIwNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.0",
+  "imdbVotes": "66,947",
+  "imdbID": "tt2279373",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$162,994,032",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

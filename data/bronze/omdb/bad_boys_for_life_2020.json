@@ -1,0 +1,40 @@
+{
+  "Title": "Bad Boys for Life",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "17 Jan 2020",
+  "Runtime": "124 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Adil El Arbi, Bilall Fallah",
+  "Writer": "Peter Craig, Joe Carnahan, Chris Bremner",
+  "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+  "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "3 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "6.5",
+  "imdbVotes": "196,819",
+  "imdbID": "tt1502397",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$206,305,244",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

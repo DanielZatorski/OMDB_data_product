@@ -1,0 +1,40 @@
+{
+  "Title": "House of Gucci",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "24 Nov 2021",
+  "Runtime": "158 min",
+  "Genre": "Biography, Crime, Drama",
+  "Director": "Ridley Scott",
+  "Writer": "Becky Johnston, Roberto Bentivegna, Sara Gay Forden",
+  "Actors": "Lady Gaga, Adam Driver, Al Pacino",
+  "Plot": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+  "Language": "English, Italian, Arabic, Spanish, Japanese, French",
+  "Country": "United States, Canada, United Kingdom",
+  "Awards": "Nominated for 1 Oscar. 17 wins & 79 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "6.6",
+  "imdbVotes": "171,747",
+  "imdbID": "tt11214590",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$53,809,574",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

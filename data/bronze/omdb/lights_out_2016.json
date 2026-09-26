@@ -1,0 +1,40 @@
+{
+  "Title": "Lights Out",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "22 Jul 2016",
+  "Runtime": "81 min",
+  "Genre": "Horror, Mystery",
+  "Director": "David F. Sandberg",
+  "Writer": "Eric Heisserer, David F. Sandberg",
+  "Actors": "Teresa Palmer, Gabriel Bateman, Maria Bello",
+  "Plot": "A supernatural entity reemerges to terrorize a family when the lights go out at night.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGUyNmQxNjQtNjU1OS00YTExLWFjMGUtNWVhN2Y0MGE2ZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.3",
+  "imdbVotes": "150,437",
+  "imdbID": "tt4786282",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$67,268,835",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

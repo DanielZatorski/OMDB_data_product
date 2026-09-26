@@ -1,0 +1,40 @@
+{
+  "Title": "Ferdinand",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "15 Dec 2017",
+  "Runtime": "108 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Carlos Saldanha",
+  "Writer": "Robert L. Baird, Tim Federle, Brad Copeland",
+  "Actors": "John Cena, Kate McKinnon, Bobby Cannavale",
+  "Plot": "After Ferdinand, a bull with a big heart, is mistaken for a dangerous beast, he is captured and torn from his home. Determined to return to his family, he rallies a misfit team on the ultimate adventure.",
+  "Language": "English, Spanish, German",
+  "Country": "United States, United Kingdom, Canada",
+  "Awards": "Nominated for 1 Oscar. 2 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.7",
+  "imdbVotes": "70,455",
+  "imdbID": "tt3411444",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$84,410,380",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

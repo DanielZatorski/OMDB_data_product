@@ -1,0 +1,40 @@
+{
+  "Title": "Into the Woods",
+  "Year": "2014",
+  "Rated": "PG",
+  "Released": "25 Dec 2014",
+  "Runtime": "125 min",
+  "Genre": "Adventure, Comedy, Drama",
+  "Director": "Rob Marshall",
+  "Writer": "James Lapine, Stephen Sondheim",
+  "Actors": "Anna Kendrick, Meryl Streep, Chris Pine",
+  "Plot": "A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.",
+  "Language": "English",
+  "Country": "United States, Canada, Italy, United Kingdom",
+  "Awards": "Nominated for 3 Oscars. 11 wins & 75 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "5.9",
+  "imdbVotes": "152,776",
+  "imdbID": "tt2180411",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$128,002,372",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

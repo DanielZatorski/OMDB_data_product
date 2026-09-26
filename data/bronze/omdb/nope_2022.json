@@ -1,0 +1,40 @@
+{
+  "Title": "Nope",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "22 Jul 2022",
+  "Runtime": "130 min",
+  "Genre": "Horror, Mystery, Sci-Fi",
+  "Director": "Jordan Peele",
+  "Writer": "Jordan Peele",
+  "Actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea",
+  "Plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+  "Language": "English, Spanish",
+  "Country": "United States, Japan, Canada",
+  "Awards": "44 wins & 182 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "6.8",
+  "imdbVotes": "314,732",
+  "imdbID": "tt10954984",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$123,277,080",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

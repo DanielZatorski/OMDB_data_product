@@ -1,0 +1,40 @@
+{
+  "Title": "Downhill",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "14 Feb 2020",
+  "Runtime": "86 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Nat Faxon, Jim Rash",
+  "Writer": "Jesse Armstrong, Nat Faxon, Jim Rash",
+  "Actors": "Julia Louis-Dreyfus, Will Ferrell, Zach Woods",
+  "Plot": "Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",
+  "Language": "English, German, Italian, Hindi",
+  "Country": "United States",
+  "Awards": "1 win & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDUzMzQwMTgtMTE5NS00MGUzLTk0NzEtY2Y5NWE5NzJjMTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "4.9",
+  "imdbVotes": "14,445",
+  "imdbID": "tt4558376",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,287,061",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

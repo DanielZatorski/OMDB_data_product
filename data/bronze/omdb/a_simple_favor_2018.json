@@ -1,0 +1,40 @@
+{
+  "Title": "A Simple Favor",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "14 Sep 2018",
+  "Runtime": "117 min",
+  "Genre": "Comedy, Crime, Mystery",
+  "Director": "Paul Feig",
+  "Writer": "Darcey Bell, Jessica Sharzer",
+  "Actors": "Anna Kendrick, Blake Lively, Henry Golding",
+  "Plot": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+  "Language": "English",
+  "Country": "Canada, United States",
+  "Awards": "3 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmM4MGFkMTItNzI1ZS00ODZlLThjYjktMTQyYmQzM2M2M2Y3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "6.7",
+  "imdbVotes": "187,822",
+  "imdbID": "tt7040874",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$53,548,586",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

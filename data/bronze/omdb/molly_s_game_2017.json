@@ -1,0 +1,40 @@
+{
+  "Title": "Molly's Game",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "05 Jan 2018",
+  "Runtime": "140 min",
+  "Genre": "Biography, Crime, Drama",
+  "Director": "Aaron Sorkin",
+  "Writer": "Aaron Sorkin, Molly Bloom",
+  "Actors": "Jessica Chastain, Idris Elba, Kevin Costner",
+  "Plot": "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
+  "Language": "English, French",
+  "Country": "United States, Canada, China",
+  "Awards": "Nominated for 1 Oscar. 8 wins & 51 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "7.4",
+  "imdbVotes": "199,224",
+  "imdbID": "tt4209788",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$28,780,744",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

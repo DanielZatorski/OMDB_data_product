@@ -1,0 +1,40 @@
+{
+  "Title": "Resident Evil: The Final Chapter",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "27 Jan 2017",
+  "Runtime": "107 min",
+  "Genre": "Action, Horror, Sci-Fi",
+  "Director": "Paul W.S. Anderson",
+  "Writer": "Paul W.S. Anderson",
+  "Actors": "Milla Jovovich, Iain Glen, Ali Larter",
+  "Plot": "Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+  "Language": "English",
+  "Country": "Germany, Canada",
+  "Awards": "3 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "5.5",
+  "imdbVotes": "108,365",
+  "imdbID": "tt2592614",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$26,830,068",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

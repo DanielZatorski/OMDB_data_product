@@ -1,0 +1,40 @@
+{
+  "Title": "Ava",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "25 Sep 2020",
+  "Runtime": "96 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Tate Taylor",
+  "Writer": "Matthew Newton",
+  "Actors": "Jessica Chastain, John Malkovich, Common",
+  "Plot": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.",
+  "Language": "English, German, French, Chinese",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxYjI0NzUtYTUzOC00ZDQwLThhMzItZThjMjU1YTBjM2MxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "18%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "5.5",
+  "imdbVotes": "67,753",
+  "imdbID": "tt8784956",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$497,747",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

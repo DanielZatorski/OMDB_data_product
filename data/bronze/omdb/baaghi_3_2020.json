@@ -1,0 +1,36 @@
+{
+  "Title": "Baaghi 3",
+  "Year": "2020",
+  "Rated": "Not Rated",
+  "Released": "06 Mar 2020",
+  "Runtime": "143 min",
+  "Genre": "Action, Thriller",
+  "Director": "Ahmed Khan",
+  "Writer": "Sajid Nadiadwala, Farhad Samji, Tasha Bhambra",
+  "Actors": "Tiger Shroff, Riteish Deshmukh, Shraddha Kapoor",
+  "Plot": "A man embarks on a bloody rampage to save his kidnapped brother.",
+  "Language": "Hindi",
+  "Country": "India",
+  "Awards": "8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjY1OWY0NTctOGMwZC00YWIzLWE1NzQtYzM3MzM3YTg1ZTY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "2.3",
+  "imdbVotes": "17,713",
+  "imdbID": "tt8366590",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$721,439",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

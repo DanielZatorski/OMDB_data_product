@@ -1,0 +1,40 @@
+{
+  "Title": "Love, Simon",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "16 Mar 2018",
+  "Runtime": "110 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Greg Berlanti",
+  "Writer": "Becky Albertalli, Elizabeth Berger, Isaac Aptaker",
+  "Actors": "Nick Robinson, Jennifer Garner, Josh Duhamel",
+  "Plot": "Simon Spier keeps a huge secret from his family, his friends and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+  "Language": "English, German, French",
+  "Country": "United States",
+  "Awards": "9 wins & 30 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2ViMjNkMDMtY2MwZC00YzRiLWJlY2UtNjU0YzNmMDc3NzkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.5",
+  "imdbVotes": "131,747",
+  "imdbID": "tt5164432",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$40,826,341",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

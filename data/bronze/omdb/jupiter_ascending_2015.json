@@ -1,0 +1,40 @@
+{
+  "Title": "Jupiter Ascending",
+  "Year": "2015",
+  "Rated": "PG-13",
+  "Released": "06 Feb 2015",
+  "Runtime": "127 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Writer": "Lilly Wachowski, Lana Wachowski",
+  "Actors": "Channing Tatum, Mila Kunis, Eddie Redmayne",
+  "Plot": "A genetically engineered soldier informs a young woman of her extraordinary destiny.",
+  "Language": "English, Russian",
+  "Country": "United States, Australia",
+  "Awards": "4 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "Metascore": "40",
+  "imdbRating": "5.3",
+  "imdbVotes": "200,972",
+  "imdbID": "tt1617661",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$47,387,723",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

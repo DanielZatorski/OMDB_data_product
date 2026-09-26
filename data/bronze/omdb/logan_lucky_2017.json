@@ -1,0 +1,40 @@
+{
+  "Title": "Logan Lucky",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "18 Aug 2017",
+  "Runtime": "118 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Steven Soderbergh",
+  "Writer": "Jules Asner",
+  "Actors": "Channing Tatum, Adam Driver, Daniel Craig",
+  "Plot": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.",
+  "Language": "English",
+  "Country": "United States, China",
+  "Awards": "2 wins & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "7.0",
+  "imdbVotes": "175,730",
+  "imdbID": "tt5439796",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$27,780,977",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

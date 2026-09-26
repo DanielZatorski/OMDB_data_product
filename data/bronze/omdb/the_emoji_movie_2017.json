@@ -1,0 +1,40 @@
+{
+  "Title": "The Emoji Movie",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "28 Jul 2017",
+  "Runtime": "86 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Tony Leondis",
+  "Writer": "Tony Leondis, Eric Siegel, Mike White",
+  "Actors": "T.J. Miller, James Corden, Anna Faris",
+  "Plot": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "6 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "6%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "12/100"
+    }
+  ],
+  "Metascore": "12",
+  "imdbRating": "3.5",
+  "imdbVotes": "76,999",
+  "imdbID": "tt4877122",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$86,089,513",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

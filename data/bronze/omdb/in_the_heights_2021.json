@@ -1,0 +1,36 @@
+{
+  "Title": "In the Heights",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "11 Jun 2021",
+  "Runtime": "143 min",
+  "Genre": "Drama, Musical, Romance",
+  "Director": "Jon M. Chu",
+  "Writer": "Quiara Alegr\u00eda Hudes, Lin-Manuel Miranda",
+  "Actors": "Anthony Ramos, Corey Hawkins, Leslie Grace",
+  "Plot": "In Washington Heights, a sympathetic New York bodega owner saves every penny every day as he imagines and sings about a better life.",
+  "Language": "English, Spanish, Hebrew",
+  "Country": "United States",
+  "Awards": "11 wins & 57 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwODk5ZmItMjUzMi00YmYyLTk3NzgtNGVmYTI3MmJhYmY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "7.2",
+  "imdbVotes": "55,554",
+  "imdbID": "tt1321510",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$29,975,167",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

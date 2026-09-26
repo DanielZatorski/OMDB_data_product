@@ -1,0 +1,40 @@
+{
+  "Title": "Minions: The Rise of Gru",
+  "Year": "2022",
+  "Rated": "PG",
+  "Released": "01 Jul 2022",
+  "Runtime": "87 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+  "Writer": "Matthew Fogel, Brian Lynch",
+  "Actors": "Steve Carell, Pierre Coffin, Alan Arkin",
+  "Plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+  "Language": "English, Vietnamese",
+  "Country": "United States",
+  "Awards": "1 win & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.5",
+  "imdbVotes": "102,656",
+  "imdbID": "tt5113044",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$370,549,695",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

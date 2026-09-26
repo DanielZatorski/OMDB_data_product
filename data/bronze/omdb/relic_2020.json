@@ -1,0 +1,40 @@
+{
+  "Title": "Relic",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "10 Jul 2020",
+  "Runtime": "89 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Natalie Erika James",
+  "Writer": "Natalie Erika James, Christian White",
+  "Actors": "Robyn Nevin, Emily Mortimer, Bella Heathcote",
+  "Plot": "A daughter, mother and grandmother are haunted by a manifestation of dementia that consumes their family's home.",
+  "Language": "English",
+  "Country": "Australia, United States, China",
+  "Awards": "5 wins & 29 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTNjYzA3OTItNzQ2NC00OTZjLWJiMzYtNWQ1YWQ5YTc0YjI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "6.0",
+  "imdbVotes": "32,301",
+  "imdbID": "tt9072352",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,047,083",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

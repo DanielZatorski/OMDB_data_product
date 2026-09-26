@@ -1,0 +1,40 @@
+{
+  "Title": "The Internship",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "07 Jun 2013",
+  "Runtime": "119 min",
+  "Genre": "Comedy",
+  "Director": "Shawn Levy",
+  "Writer": "Vince Vaughn, Jared Stern",
+  "Actors": "Vince Vaughn, Owen Wilson, Rose Byrne",
+  "Plot": "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.",
+  "Language": "English, Tagalog, Cantonese, Mandarin, Spanish",
+  "Country": "United States",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "34%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "6.3",
+  "imdbVotes": "226,022",
+  "imdbID": "tt2234155",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,672,764",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

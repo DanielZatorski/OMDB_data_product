@@ -1,0 +1,40 @@
+{
+  "Title": "Hitman: Agent 47",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "21 Aug 2015",
+  "Runtime": "96 min",
+  "Genre": "Action, Adventure, Crime",
+  "Director": "Aleksander Bach",
+  "Writer": "Skip Woods, Michael Finch",
+  "Actors": "Rupert Friend, Hannah Ware, Zachary Quinto",
+  "Plot": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Germany, Canada, Singapore",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTBiYjg1ZGYtZjQxZS00NDBkLTgyZjEtZGIzYWNmNjhiOGRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "8%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "28/100"
+    }
+  ],
+  "Metascore": "28",
+  "imdbRating": "5.7",
+  "imdbVotes": "100,882",
+  "imdbID": "tt2679042",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$22,467,450",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

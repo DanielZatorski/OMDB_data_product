@@ -1,0 +1,40 @@
+{
+  "Title": "The Star",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "17 Nov 2017",
+  "Runtime": "86 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Timothy Reckart",
+  "Writer": "Carlos Kotkin, Simon Moore",
+  "Actors": "Steven Yeun, Keegan-Michael Key, Aidy Bryant",
+  "Plot": "A small but brave donkey and his animal friends become the unsung heroes of the first Christmas.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MDQ4NTM2N15BMl5BanBnXkFtZTgwNDM1NTIzMzI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "6.3",
+  "imdbVotes": "10,328",
+  "imdbID": "tt4587656",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$40,896,334",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

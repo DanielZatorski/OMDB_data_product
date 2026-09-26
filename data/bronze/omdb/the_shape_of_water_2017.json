@@ -1,0 +1,40 @@
+{
+  "Title": "The Shape of Water",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "22 Dec 2017",
+  "Runtime": "123 min",
+  "Genre": "Drama, Fantasy, Romance",
+  "Director": "Guillermo del Toro",
+  "Writer": "Guillermo del Toro, Vanessa Taylor",
+  "Actors": "Sally Hawkins, Octavia Spencer, Michael Shannon",
+  "Plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+  "Language": "English, American Sign , Russian, French",
+  "Country": "United States, Mexico",
+  "Awards": "Won 4 Oscars. 138 wins & 350 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGFlMTM2MTgtZDdlMy00ZDZlLWFjOTUtZDMzMGEwNmNiMWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "Metascore": "87",
+  "imdbRating": "7.3",
+  "imdbVotes": "472,626",
+  "imdbID": "tt5580390",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$63,859,435",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Warcraft",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "10 Jun 2016",
+  "Runtime": "123 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Duncan Jones",
+  "Writer": "Charles Leavitt, Duncan Jones",
+  "Actors": "Travis Fimmel, Paula Patton, Ben Foster",
+  "Plot": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+  "Language": "English",
+  "Country": "United States, China, Canada, Japan",
+  "Awards": "2 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "32/100"
+    }
+  ],
+  "Metascore": "32",
+  "imdbRating": "6.7",
+  "imdbVotes": "294,721",
+  "imdbID": "tt0803096",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$47,365,290",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Death Wish",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "02 Mar 2018",
+  "Runtime": "107 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Eli Roth",
+  "Writer": "Joe Carnahan, Brian Garfield, Wendell Mayes",
+  "Actors": "Bruce Willis, Vincent D'Onofrio, Elisabeth Shue",
+  "Plot": "Dr. Paul Kersey is an experienced trauma surgeon, a man who has spent his life saving lives. After an attack on his family, Paul embarks on his own mission for justice.",
+  "Language": "English, Spanish",
+  "Country": "United States, Canada",
+  "Awards": "4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "18%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "Metascore": "31",
+  "imdbRating": "6.3",
+  "imdbVotes": "81,869",
+  "imdbID": "tt1137450",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$34,017,028",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

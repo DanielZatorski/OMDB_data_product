@@ -1,0 +1,40 @@
+{
+  "Title": "Midway",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "08 Nov 2019",
+  "Runtime": "138 min",
+  "Genre": "Action, Drama, History",
+  "Director": "Roland Emmerich",
+  "Writer": "Wes Tooke",
+  "Actors": "Ed Skrein, Patrick Wilson, Woody Harrelson",
+  "Plot": "The story of the Battle of Midway, told by the leaders and the sailors who fought in it.",
+  "Language": "English, Japanese, Mandarin",
+  "Country": "United States, Canada, China, Hong Kong",
+  "Awards": "1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyMGVlYzctZjYwNC00MDBiLTg1NDAtNzcxZjlhZTA4NzczXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "6.7",
+  "imdbVotes": "104,315",
+  "imdbID": "tt6924650",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$56,846,802",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

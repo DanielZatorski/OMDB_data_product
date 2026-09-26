@@ -1,0 +1,40 @@
+{
+  "Title": "The Lone Ranger",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "03 Jul 2013",
+  "Runtime": "150 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Gore Verbinski",
+  "Writer": "Justin Haythe, Ted Elliott, Terry Rossio",
+  "Actors": "Johnny Depp, Armie Hammer, William Fichtner",
+  "Plot": "Native American warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice.",
+  "Language": "English, North American Indian",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 6 wins & 23 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ1YWE5NzktOWYyYS00MTBmLWE1NDUtMTU5Mzc2YWQyNzhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "Metascore": "37",
+  "imdbRating": "6.4",
+  "imdbVotes": "252,056",
+  "imdbID": "tt1210819",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$89,302,115",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

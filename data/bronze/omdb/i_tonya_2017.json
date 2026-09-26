@@ -1,0 +1,40 @@
+{
+  "Title": "I, Tonya",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "19 Jan 2018",
+  "Runtime": "119 min",
+  "Genre": "Biography, Comedy, Drama",
+  "Director": "Craig Gillespie",
+  "Writer": "Steven Rogers",
+  "Actors": "Margot Robbie, Sebastian Stan, Allison Janney",
+  "Plot": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Qatar",
+  "Awards": "Won 1 Oscar. 46 wins & 126 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "7.5",
+  "imdbVotes": "260,119",
+  "imdbID": "tt5580036",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$30,014,539",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

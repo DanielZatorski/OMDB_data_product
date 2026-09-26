@@ -1,0 +1,40 @@
+{
+  "Title": "Terminator: Dark Fate",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "01 Nov 2019",
+  "Runtime": "128 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Tim Miller",
+  "Writer": "David S. Goyer, Justin Rhodes, Billy Ray",
+  "Actors": "Linda Hamilton, Arnold Schwarzenegger, Mackenzie Davis",
+  "Plot": "An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race.",
+  "Language": "English, Spanish",
+  "Country": "United States, Hungary, Spain, China",
+  "Awards": "1 win & 12 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.2",
+  "imdbVotes": "210,760",
+  "imdbID": "tt6450804",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$62,253,077",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

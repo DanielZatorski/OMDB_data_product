@@ -1,0 +1,40 @@
+{
+  "Title": "Fist Fight",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "17 Feb 2017",
+  "Runtime": "91 min",
+  "Genre": "Comedy",
+  "Director": "Richie Keen",
+  "Writer": "Van Robichaux, Evan Susser, Max Greenfield",
+  "Actors": "Ice Cube, Charlie Day, Tracy Morgan",
+  "Plot": "When one school teacher unwittingly causes another teacher's dismissal, he is challenged to an after-school fight.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "Metascore": "37",
+  "imdbRating": "5.6",
+  "imdbVotes": "48,075",
+  "imdbID": "tt3401882",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,187,017",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

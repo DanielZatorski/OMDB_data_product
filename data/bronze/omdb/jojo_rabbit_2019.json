@@ -1,0 +1,40 @@
+{
+  "Title": "Jojo Rabbit",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "08 Nov 2019",
+  "Runtime": "108 min",
+  "Genre": "Comedy, Drama, War",
+  "Director": "Taika Waititi",
+  "Writer": "Christine Leunens, Taika Waititi",
+  "Actors": "Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson",
+  "Plot": "A young German boy in the Hitler Youth, whose hero and imaginary friend is the country's dictator, is shocked to discover that his mother is hiding a Jewish girl in their home.",
+  "Language": "English, German",
+  "Country": "New Zealand, United States, Czech Republic",
+  "Awards": "Won 1 Oscar. 53 wins & 191 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "7.9",
+  "imdbVotes": "483,917",
+  "imdbID": "tt2584384",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$33,370,906",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

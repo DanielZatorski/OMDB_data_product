@@ -1,0 +1,40 @@
+{
+  "Title": "The Meg",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "10 Aug 2018",
+  "Runtime": "113 min",
+  "Genre": "Action, Adventure, Horror",
+  "Director": "Jon Turteltaub",
+  "Writer": "Dean Georgaris, Jon Hoeber, Erich Hoeber",
+  "Actors": "Jason Statham, Bingbing Li, Rainn Wilson",
+  "Plot": "A rescue mission to the bottom of the ocean is terrorized by a massive prehistoric shark.",
+  "Language": "English, Mandarin, Thai, Japanese",
+  "Country": "United States, China",
+  "Awards": "5 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWZjYjgxMzEtYTE1MS00M2RlLWJjOTUtZDA5ODM2YWQ4Y2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Metascore": "46",
+  "imdbRating": "5.7",
+  "imdbVotes": "226,090",
+  "imdbID": "tt4779682",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$145,522,784",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

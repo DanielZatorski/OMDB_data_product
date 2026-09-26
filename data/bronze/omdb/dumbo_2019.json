@@ -1,0 +1,40 @@
+{
+  "Title": "Dumbo",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "29 Mar 2019",
+  "Runtime": "112 min",
+  "Genre": "Animation, Adventure, Family",
+  "Director": "Tim Burton",
+  "Writer": "Ehren Kruger, Helen Aberson, Harold Pearl",
+  "Actors": "Colin Farrell, Michael Keaton, Danny DeVito",
+  "Plot": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+  "Language": "English, French",
+  "Country": "United Kingdom, Canada, Australia, United States",
+  "Awards": "4 wins & 13 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "Metascore": "51",
+  "imdbRating": "6.2",
+  "imdbVotes": "87,768",
+  "imdbID": "tt3861390",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$114,766,307",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

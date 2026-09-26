@@ -1,0 +1,40 @@
+{
+  "Title": "Countdown",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "25 Oct 2019",
+  "Runtime": "90 min",
+  "Genre": "Horror, Thriller",
+  "Director": "Justin Dec",
+  "Writer": "Justin Dec",
+  "Actors": "Elizabeth Lail, Jordan Calloway, Talitha Eliana Bateman",
+  "Plot": "When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time ru...",
+  "Language": "English, Latin",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzJjODI5ZTQtMTIxNy00MjY0LTlhNDgtNzk0YjZjM2Q1ZDIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "Metascore": "31",
+  "imdbRating": "5.4",
+  "imdbVotes": "52,458",
+  "imdbID": "tt10039344",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,621,766",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

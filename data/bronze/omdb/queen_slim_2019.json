@@ -1,0 +1,36 @@
+{
+  "Title": "Queen & Slim",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "27 Nov 2019",
+  "Runtime": "132 min",
+  "Genre": "Crime, Drama, Romance",
+  "Director": "Melina Matsoukas",
+  "Writer": "Lena Waithe, James Frey",
+  "Actors": "Daniel Kaluuya, Jodie Turner-Smith, Bokeem Woodbine",
+  "Plot": "A couple's first date takes an unexpected turn when a police officer pulls them over.",
+  "Language": "English",
+  "Country": "Canada, United States",
+  "Awards": "13 wins & 44 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ4NDFjYjYtMmU3My00MDcyLWIwMWUtM2JiYTBiYTI2ZGE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.1",
+  "imdbVotes": "37,049",
+  "imdbID": "tt8722346",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$43,808,310",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

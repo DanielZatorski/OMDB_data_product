@@ -1,0 +1,40 @@
+{
+  "Title": "The Marksman",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "15 Jan 2021",
+  "Runtime": "108 min",
+  "Genre": "Action, Drama, Thriller",
+  "Director": "Robert Lorenz",
+  "Writer": "Chris Charles, Danny Kravitz, Robert Lorenz",
+  "Actors": "Katheryn Winnick, Liam Neeson, Teresa Ruiz",
+  "Plot": "A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who've pursued him into the U.S.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwODgtMjM2Yy00MzZjLTgzN2YtZWFiZDBiMDc2OWZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "5.7",
+  "imdbVotes": "48,674",
+  "imdbID": "tt6902332",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,566,093",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Kong: Skull Island",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "10 Mar 2017",
+  "Runtime": "118 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Jordan Vogt-Roberts",
+  "Writer": "Dan Gilroy, Max Borenstein, Derek Connolly",
+  "Actors": "Tom Hiddleston, Samuel L. Jackson, Brie Larson",
+  "Plot": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.",
+  "Language": "English, Vietnamese, Japanese",
+  "Country": "United States, China, Vietnam",
+  "Awards": "Nominated for 1 Oscar. 1 win & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.7",
+  "imdbVotes": "378,708",
+  "imdbID": "tt3731562",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$168,052,812",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

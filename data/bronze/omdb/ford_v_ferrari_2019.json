@@ -1,0 +1,40 @@
+{
+  "Title": "Ford v Ferrari",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "15 Nov 2019",
+  "Runtime": "152 min",
+  "Genre": "Action, Biography, Drama",
+  "Director": "James Mangold",
+  "Writer": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
+  "Actors": "Matt Damon, Christian Bale, Jon Bernthal",
+  "Plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+  "Language": "English, Italian, French, Japanese",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 26 wins & 86 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "8.1",
+  "imdbVotes": "553,839",
+  "imdbID": "tt1950186",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$117,624,357",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Angry Birds Movie 2",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "14 Aug 2019",
+  "Runtime": "97 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "John Rice, Thurop Van Orman",
+  "Writer": "Peter Ackerman, Eyal Podell, Jonathon E. Stewart",
+  "Actors": "Jason Sudeikis, Josh Gad, Leslie Jones",
+  "Plot": "The flightless birds and scheming green pigs take their feud to the next level.",
+  "Language": "English",
+  "Country": "Finland, United States, Canada, Kazakhstan",
+  "Awards": "1 win & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGJkNzYyZmYtOGJkNy00NDExLWEwOWEtZDcxYmRmYTg1YTI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.4",
+  "imdbVotes": "42,212",
+  "imdbID": "tt6095472",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$41,667,116",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Jack the Giant Slayer",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "01 Mar 2013",
+  "Runtime": "114 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Bryan Singer",
+  "Writer": "Darren Lemke, Christopher McQuarrie, Dan Studney",
+  "Actors": "Nicholas Hoult, Stanley Tucci, Ewan McGregor",
+  "Plot": "The ancient war between humans and a race of giants is reignited when Jack, a young farmhand fighting for a kingdom and the love of a princess, opens a gateway between the two worlds.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDMxMjI0OV5BMl5BanBnXkFtZTcwMjQyMDExOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "Metascore": "51",
+  "imdbRating": "6.3",
+  "imdbVotes": "153,746",
+  "imdbID": "tt1351685",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$65,187,603",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

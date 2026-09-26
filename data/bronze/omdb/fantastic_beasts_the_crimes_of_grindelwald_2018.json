@@ -1,0 +1,40 @@
+{
+  "Title": "Fantastic Beasts: The Crimes of Grindelwald",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "16 Nov 2018",
+  "Runtime": "134 min",
+  "Genre": "Adventure, Family, Fantasy",
+  "Director": "David Yates",
+  "Writer": "J.K. Rowling",
+  "Actors": "Eddie Redmayne, Katherine Waterston, Dan Fogler",
+  "Plot": "Gellert Grindelwald plans to raise an army of wizards to rule over non-magical beings. In response, Newt Scamander's former professor, Albus Dumbledore, seeks his help to stop him.",
+  "Language": "English, French",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 2 BAFTA 3 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyZjk5ODctNDg3MC00YTgyLThmYTAtNjZkNzk4Y2JhMDRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.5",
+  "imdbVotes": "329,657",
+  "imdbID": "tt4123430",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$159,555,901",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Legend of Tarzan",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "01 Jul 2016",
+  "Runtime": "110 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "David Yates",
+  "Writer": "Adam Cozad, Craig Brewer, Edgar Rice Burroughs",
+  "Actors": "Alexander Skarsg\u00e5rd, Rory J Saper, Christian Stevens",
+  "Plot": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
+  "Language": "English, Lingala, French",
+  "Country": "United Kingdom, India, United States",
+  "Awards": "2 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "6.2",
+  "imdbVotes": "197,155",
+  "imdbID": "tt0918940",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$126,643,061",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Boogie",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "05 Mar 2021",
+  "Runtime": "90 min",
+  "Genre": "Drama, Sport",
+  "Director": "Eddie Huang",
+  "Writer": "Eddie Huang",
+  "Actors": "Taylor Takahashi, Pamelyn Chee, Jorge Lendeborg Jr.",
+  "Plot": "Coming-of-age story of Alfred \"Boogie\" Chin, a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie mu...",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjZmZjEwYTgtM2RiZS00NTUwLWI4ODktMDY5ZjBjNmEwYjI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "41%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "5.2",
+  "imdbVotes": "2,654",
+  "imdbID": "tt10896398",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$4,178,620",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

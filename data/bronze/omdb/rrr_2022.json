@@ -1,0 +1,40 @@
+{
+  "Title": "RRR",
+  "Year": "2022",
+  "Rated": "TV-MA",
+  "Released": "25 Mar 2022",
+  "Runtime": "187 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "S.S. Rajamouli",
+  "Writer": "Vijayendra Prasad, S.S. Rajamouli, Sai Madhav Burra",
+  "Actors": "N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",
+  "Plot": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "Won 1 Oscar. 93 wins & 152 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.8",
+  "imdbVotes": "201,689",
+  "imdbID": "tt8178634",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,156,051",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

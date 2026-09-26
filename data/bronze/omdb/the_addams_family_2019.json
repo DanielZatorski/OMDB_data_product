@@ -1,0 +1,40 @@
+{
+  "Title": "The Addams Family",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "11 Oct 2019",
+  "Runtime": "86 min",
+  "Genre": "Animation, Comedy, Family",
+  "Director": "Greg Tiernan, Conrad Vernon",
+  "Writer": "Matt Lieberman, Erica Rivinoja, Conrad Vernon",
+  "Actors": "Oscar Isaac, Charlize Theron, Chlo\u00eb Grace Moretz",
+  "Plot": "The Addams family face-off against a crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+  "Language": "English, Spanish, Italian, French",
+  "Country": "Canada, United States, United Kingdom, Vietnam",
+  "Awards": "4 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTZhN2UtMmVkYi00NzQxLWI2MWEtNTg5M2YyOWU3MmIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Metascore": "46",
+  "imdbRating": "5.8",
+  "imdbVotes": "47,899",
+  "imdbID": "tt1620981",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,723,831",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

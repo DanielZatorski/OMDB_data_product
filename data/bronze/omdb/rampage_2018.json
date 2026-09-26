@@ -1,0 +1,40 @@
+{
+  "Title": "Rampage",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "13 Apr 2018",
+  "Runtime": "107 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Brad Peyton",
+  "Writer": "Ryan Engle, Carlton Cuse, Ryan J. Condal",
+  "Actors": "Dwayne Johnson, Naomie Harris, Malin Akerman",
+  "Plot": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+  "Language": "English, American Sign Language",
+  "Country": "United States",
+  "Awards": "7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "Metascore": "45",
+  "imdbRating": "6.1",
+  "imdbVotes": "201,100",
+  "imdbID": "tt2231461",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$101,028,233",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

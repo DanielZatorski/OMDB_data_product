@@ -1,0 +1,40 @@
+{
+  "Title": "Stillwater",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "30 Jul 2021",
+  "Runtime": "139 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Tom McCarthy",
+  "Writer": "Tom McCarthy, Marcus Hinchey, Thomas Bidegain",
+  "Actors": "Matt Damon, Camille Cottin, Abigail Breslin",
+  "Plot": "A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTM2NTA5NTQtZDYyNS00ZmFkLTkwYmItZGQ0YmRmN2UxYTZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.6",
+  "imdbVotes": "63,175",
+  "imdbID": "tt10696896",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$14,465,535",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

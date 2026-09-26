@@ -1,0 +1,40 @@
+{
+  "Title": "Angel Has Fallen",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "23 Aug 2019",
+  "Runtime": "121 min",
+  "Genre": "Action, Thriller",
+  "Director": "Ric Roman Waugh",
+  "Writer": "Robert Mark Kamen, Matt Cook, Ric Roman Waugh",
+  "Actors": "Gerard Butler, Frederick Schmidt, Danny Huston",
+  "Plot": "Mike Banning is framed for the attempted assassination of the President, and now must evade his own agency, and the FBI, as he tries to uncover the real threat.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Portugal, Canada, Bulgaria",
+  "Awards": "1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmY4YTJlZjktNmVkYi00MzBjLTg3MTAtMGZiNWUwY2NiMmM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "Metascore": "45",
+  "imdbRating": "6.4",
+  "imdbVotes": "121,253",
+  "imdbID": "tt6189022",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$69,030,436",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

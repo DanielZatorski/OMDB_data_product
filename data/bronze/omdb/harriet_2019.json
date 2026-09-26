@@ -1,0 +1,40 @@
+{
+  "Title": "Harriet",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "01 Nov 2019",
+  "Runtime": "125 min",
+  "Genre": "Action, Biography, Drama",
+  "Director": "Kasi Lemmons",
+  "Writer": "Gregory Allen Howard, Kasi Lemmons",
+  "Actors": "Cynthia Erivo, Janelle Mon\u00e1e, Leslie Odom Jr.",
+  "Plot": "The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroines, whose courage, ingenuity and tenacity freed hundreds of slaves and changed the course of history.",
+  "Language": "English",
+  "Country": "China, United States",
+  "Awards": "Nominated for 2 Oscars. 21 wins & 56 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTVlNGQ0ZWQtZTkzZC00YmQxLTg5MzQtYjFhYjVhMTdmM2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.7",
+  "imdbVotes": "34,447",
+  "imdbID": "tt4648786",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$43,082,155",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Dear Evan Hansen",
+  "Year": "2021",
+  "Rated": "PG-13",
+  "Released": "24 Sep 2021",
+  "Runtime": "137 min",
+  "Genre": "Drama, Musical",
+  "Director": "Stephen Chbosky",
+  "Writer": "Steven Levenson",
+  "Actors": "Ben Platt, Julianne Moore, Kaitlyn Dever",
+  "Plot": "An anxious, isolated high schooler becomes embroiled in a lie after a schoolmate commits suicide. Now, close to the boy's family, he begins a journey of self-discovery and acceptance.",
+  "Language": "English",
+  "Country": "United States, China, Japan",
+  "Awards": "8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmJlMmIxNTktZjE3ZC00NWZmLTljZGYtNjI5ODFiYmNlMDdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "6.1",
+  "imdbVotes": "20,703",
+  "imdbID": "tt9357050",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,002,646",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

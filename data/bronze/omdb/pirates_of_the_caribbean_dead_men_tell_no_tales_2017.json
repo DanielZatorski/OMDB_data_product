@@ -1,0 +1,40 @@
+{
+  "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+  "Year": "2017",
+  "Rated": "PG-13",
+  "Released": "26 May 2017",
+  "Runtime": "129 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Joachim R\u00f8nning, Espen Sandberg",
+  "Writer": "Jeff Nathanson, Terry Rossio, Ted Elliott",
+  "Actors": "Johnny Depp, Geoffrey Rush, Javier Bardem",
+  "Plot": "Captain Jack Sparrow searches for the Trident of Poseidon to rule the sea while being pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle.",
+  "Language": "English, Spanish",
+  "Country": "United States, Australia, United Kingdom, Canada",
+  "Awards": "1 win & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "6.5",
+  "imdbVotes": "381,325",
+  "imdbID": "tt1790809",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$172,558,876",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "American Hustle",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "20 Dec 2013",
+  "Runtime": "138 min",
+  "Genre": "Crime, Drama",
+  "Director": "David O. Russell",
+  "Writer": "Eric Warren Singer, David O. Russell",
+  "Actors": "Christian Bale, Amy Adams, Bradley Cooper",
+  "Plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+  "Language": "English, Arabic",
+  "Country": "United States, China",
+  "Awards": "Nominated for 10 Oscars. 70 wins & 228 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "Metascore": "90",
+  "imdbRating": "7.2",
+  "imdbVotes": "515,479",
+  "imdbID": "tt1800241",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$150,117,807",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Bohemian Rhapsody",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "02 Nov 2018",
+  "Runtime": "134 min",
+  "Genre": "Biography, Drama, Music",
+  "Director": "Bryan Singer",
+  "Writer": "Anthony McCarten, Peter Morgan",
+  "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+  "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+  "Language": "English, British Sign ",
+  "Country": "United Kingdom, United States",
+  "Awards": "Won 4 Oscars. 50 wins & 80 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "7.9",
+  "imdbVotes": "638,785",
+  "imdbID": "tt1727824",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$216,668,042",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

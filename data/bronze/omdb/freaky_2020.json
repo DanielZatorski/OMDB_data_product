@@ -1,0 +1,40 @@
+{
+  "Title": "Freaky",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "13 Nov 2020",
+  "Runtime": "102 min",
+  "Genre": "Comedy, Horror, Thriller",
+  "Director": "Christopher Landon",
+  "Writer": "Michael Kennedy, Christopher Landon",
+  "Actors": "Vince Vaughn, Kathryn Newton, Celeste O'Connor",
+  "Plot": "After swapping bodies with a deranged serial killer, a high-school senior discovers that she has fewer than 24 hours before the change becomes permanent.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "1 win & 18 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODZmNzJjNjAtOGFhNi00ZjhjLTg5MzgtYjRjNGE0YWE3NDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "6.3",
+  "imdbVotes": "80,416",
+  "imdbID": "tt10919380",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$9,030,855",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

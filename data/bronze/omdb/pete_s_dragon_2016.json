@@ -1,0 +1,40 @@
+{
+  "Title": "Pete's Dragon",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "12 Aug 2016",
+  "Runtime": "102 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "David Lowery",
+  "Writer": "David Lowery, Toby Halbrooks, Malcolm Marmorstein",
+  "Actors": "Bryce Dallas Howard, Robert Redford, Oakes Fegley",
+  "Plot": "The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, New Zealand, India",
+  "Awards": "3 wins & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiYTdjZDUtYjg3ZS00YTA0LTkzZGUtMzA2OWEyOGZiN2VhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "6.7",
+  "imdbVotes": "64,160",
+  "imdbID": "tt2788732",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$76,233,151",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

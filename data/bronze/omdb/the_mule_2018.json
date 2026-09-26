@@ -1,0 +1,40 @@
+{
+  "Title": "The Mule",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "14 Dec 2018",
+  "Runtime": "116 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Clint Eastwood",
+  "Writer": "Nick Schenk, Sam Dolnick",
+  "Actors": "Clint Eastwood, Bradley Cooper, Laurence Fishburne",
+  "Plot": "A ninety-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+  "Language": "English, Spanish",
+  "Country": "United States, Canada",
+  "Awards": "1 win & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "7.0",
+  "imdbVotes": "167,646",
+  "imdbID": "tt7959026",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$103,804,407",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Spell",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "30 Oct 2020",
+  "Runtime": "91 min",
+  "Genre": "Horror, Thriller",
+  "Director": "Mark Tonderai",
+  "Writer": "Kurt Wimmer",
+  "Actors": "Omari Hardwick, Loretta Devine, Lorraine Burroughs",
+  "Plot": "A man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGFjZWY0ZTEtYTQ3ZS00MTdlLWE1NmUtNDYzNzYxNTdmMDMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "Metascore": "38",
+  "imdbRating": "5.5",
+  "imdbVotes": "11,028",
+  "imdbID": "tt10736580",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$500,104",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

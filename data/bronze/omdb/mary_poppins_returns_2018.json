@@ -1,0 +1,40 @@
+{
+  "Title": "Mary Poppins Returns",
+  "Year": "2018",
+  "Rated": "PG",
+  "Released": "19 Dec 2018",
+  "Runtime": "130 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Rob Marshall",
+  "Writer": "P.L. Travers, David Magee, Rob Marshall",
+  "Actors": "Emily Blunt, Lin-Manuel Miranda, Ben Whishaw",
+  "Plot": "A few decades after her original visit, Mary Poppins, the magical nanny, returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Denmark, Australia, Canada, India",
+  "Awards": "Nominated for 4 Oscars. 24 wins & 112 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0NDIzMTA1MF5BMl5BanBnXkFtZTgwMzM0MTUzNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.7",
+  "imdbVotes": "98,768",
+  "imdbID": "tt5028340",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$171,958,438",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

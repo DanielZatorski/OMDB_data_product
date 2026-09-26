@@ -1,0 +1,40 @@
+{
+  "Title": "The Hobbit: The Desolation of Smaug",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "13 Dec 2013",
+  "Runtime": "161 min",
+  "Genre": "Adventure, Fantasy",
+  "Director": "Peter Jackson",
+  "Writer": "Fran Walsh, Philippa Boyens, Peter Jackson",
+  "Actors": "Ian McKellen, Martin Freeman, Richard Armitage",
+  "Plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim the Lonely Mountain, their homeland, from the dragon Smaug.",
+  "Language": "English",
+  "Country": "New Zealand, United States",
+  "Awards": "Nominated for 3 Oscars. 19 wins & 90 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.8",
+  "imdbVotes": "752,978",
+  "imdbID": "tt1170358",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$258,387,334",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Gemini Man",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "11 Oct 2019",
+  "Runtime": "117 min",
+  "Genre": "Action, Sci-Fi, Thriller",
+  "Director": "Ang Lee",
+  "Writer": "David Benioff, Billy Ray, Darren Lemke",
+  "Actors": "Will Smith, Mary Elizabeth Winstead, Clive Owen",
+  "Plot": "An over-the-hill hitman faces off against a younger clone of himself.",
+  "Language": "English, French",
+  "Country": "United States, China, Colombia",
+  "Awards": "1 win & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2ZmM4ZGEtODJjMC00MzY5LTk4ZmYtNzA5NmRhYzA5Y2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "Metascore": "38",
+  "imdbRating": "5.7",
+  "imdbVotes": "130,105",
+  "imdbID": "tt1025100",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$48,546,770",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

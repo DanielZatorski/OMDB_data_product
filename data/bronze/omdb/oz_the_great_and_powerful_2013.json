@@ -1,0 +1,40 @@
+{
+  "Title": "Oz the Great and Powerful",
+  "Year": "2013",
+  "Rated": "PG",
+  "Released": "08 Mar 2013",
+  "Runtime": "130 min",
+  "Genre": "Adventure, Family, Fantasy",
+  "Director": "Sam Raimi",
+  "Writer": "Mitchell Kapner, David Lindsay-Abaire, L. Frank Baum",
+  "Actors": "James Franco, Michelle Williams, Rachel Weisz",
+  "Plot": "A small-time magician is swept away to an enchanted land and is forced into a power struggle among three witches.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "6 wins & 31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDRlOTNlMWMtM2FlMi00MzNiLTk1NzEtNjc3Njg1M2NkNmY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "6.3",
+  "imdbVotes": "220,679",
+  "imdbID": "tt1623205",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$234,911,825",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

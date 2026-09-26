@@ -1,0 +1,40 @@
+{
+  "Title": "The Hobbit: The Battle of the Five Armies",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "17 Dec 2014",
+  "Runtime": "144 min",
+  "Genre": "Adventure, Fantasy",
+  "Director": "Peter Jackson",
+  "Writer": "Fran Walsh, Philippa Boyens, Peter Jackson",
+  "Actors": "Ian McKellen, Martin Freeman, Richard Armitage",
+  "Plot": "Bilbo Baggins and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+  "Language": "English",
+  "Country": "New Zealand, United States",
+  "Awards": "Nominated for 1 Oscar. 8 wins & 56 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "7.4",
+  "imdbVotes": "617,163",
+  "imdbID": "tt2310332",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$255,138,261",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

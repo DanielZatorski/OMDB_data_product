@@ -1,0 +1,40 @@
+{
+  "Title": "Kingsman: The Golden Circle",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "22 Sep 2017",
+  "Runtime": "141 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Matthew Vaughn",
+  "Writer": "Jane Goldman, Matthew Vaughn, Mark Millar",
+  "Actors": "Taron Egerton, Colin Firth, Mark Strong",
+  "Plot": "After the Kingsman's headquarters is destroyed and the world is held hostage, an allied spy organization in the United States is discovered. These two elite secret agencies must band together to defeat a common enemy.",
+  "Language": "English, Italian, Swedish",
+  "Country": "United Kingdom, United States, Italy",
+  "Awards": "2 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "Metascore": "44",
+  "imdbRating": "6.7",
+  "imdbVotes": "400,623",
+  "imdbID": "tt4649466",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,234,838",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

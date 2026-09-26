@@ -1,0 +1,40 @@
+{
+  "Title": "Jersey Boys",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "20 Jun 2014",
+  "Runtime": "134 min",
+  "Genre": "Biography, Drama, Music",
+  "Director": "Clint Eastwood",
+  "Writer": "Marshall Brickman, Rick Elice",
+  "Actors": "John Lloyd Young, Erich Bergen, Michael Lomenda",
+  "Plot": "The story of four young men from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons.",
+  "Language": "English, Italian, French",
+  "Country": "United States",
+  "Awards": "4 wins & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMjA2OTM0NF5BMl5BanBnXkFtZTgwMzY2MTI2MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.8",
+  "imdbVotes": "38,345",
+  "imdbID": "tt1742044",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$47,047,013",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

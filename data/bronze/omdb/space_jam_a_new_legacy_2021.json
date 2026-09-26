@@ -1,0 +1,40 @@
+{
+  "Title": "Space Jam: A New Legacy",
+  "Year": "2021",
+  "Rated": "PG",
+  "Released": "15 Jul 2021",
+  "Runtime": "115 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Malcolm D. Lee",
+  "Writer": "Leo Benvenuti, Steve Rudnick, Timothy Harris",
+  "Actors": "LeBron James, Don Cheadle, Cedric Joe",
+  "Plot": "A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with the Looney Tunes to win a basketball game.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Canada, Australia, Singapore",
+  "Awards": "7 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDkyOGM4MDMtZWU4ZS00YWMxLTgzNjAtYzI4M2Y1ODA4YWJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "Metascore": "36",
+  "imdbRating": "4.5",
+  "imdbVotes": "86,287",
+  "imdbID": "tt3554046",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$70,592,228",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

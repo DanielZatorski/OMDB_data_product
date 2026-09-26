@@ -1,0 +1,40 @@
+{
+  "Title": "After Earth",
+  "Year": "2013",
+  "Rated": "PG-13",
+  "Released": "31 May 2013",
+  "Runtime": "100 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "M. Night Shyamalan",
+  "Writer": "Gary Whitta, M. Night Shyamalan, Will Smith",
+  "Actors": "Jaden Smith, David Denman, Will Smith",
+  "Plot": "A crash landing leaves Kitai Raige and his father Cypher stranded on Earth, a millennium after events forced humanity's escape. With Cypher injured, Kitai must embark on a perilous journey to signal for help.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MzQyMjkwMl5BMl5BanBnXkFtZTcwMDk2OTE0OQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "12%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "33/100"
+    }
+  ],
+  "Metascore": "33",
+  "imdbRating": "4.8",
+  "imdbVotes": "216,012",
+  "imdbID": "tt1815862",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$60,522,097",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

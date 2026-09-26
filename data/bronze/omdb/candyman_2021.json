@@ -1,0 +1,40 @@
+{
+  "Title": "Candyman",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "27 Aug 2021",
+  "Runtime": "91 min",
+  "Genre": "Horror, Thriller",
+  "Director": "Nia DaCosta",
+  "Writer": "Jordan Peele, Win Rosenfeld, Nia DaCosta",
+  "Actors": "Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett",
+  "Plot": "A sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.",
+  "Language": "English, Ukrainian, French",
+  "Country": "Canada, Australia, United States",
+  "Awards": "10 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzFjMTQwMGYtNjNmNC00NjMyLWJjNWYtOGRhMmVkNGY1N2U5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "5.9",
+  "imdbVotes": "82,789",
+  "imdbID": "tt9347730",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$61,186,570",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

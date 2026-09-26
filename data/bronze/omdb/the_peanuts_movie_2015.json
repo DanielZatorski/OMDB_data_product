@@ -1,0 +1,40 @@
+{
+  "Title": "The Peanuts Movie",
+  "Year": "2015",
+  "Rated": "G",
+  "Released": "06 Nov 2015",
+  "Runtime": "88 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Steve Martino",
+  "Writer": "Craig Schulz, Bryan Schulz, Cornelius Uliano",
+  "Actors": "Noah Schnapp, Bill Melendez, Hadley Belle Miller",
+  "Plot": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 49 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.0",
+  "imdbVotes": "52,134",
+  "imdbID": "tt2452042",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$130,178,411",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

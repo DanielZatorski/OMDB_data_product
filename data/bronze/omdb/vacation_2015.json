@@ -1,0 +1,40 @@
+{
+  "Title": "Vacation",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "29 Jul 2015",
+  "Runtime": "99 min",
+  "Genre": "Adventure, Comedy",
+  "Director": "John Francis Daley, Jonathan Goldstein",
+  "Writer": "Jonathan Goldstein, John Francis Daley, John Hughes",
+  "Actors": "Ed Helms, Christina Applegate, Skyler Gisondo",
+  "Plot": "Rusty Griswold takes his own family on a road trip to \"Walley World\" in order to spice things up with his wife and reconnect with his sons.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWJmYTcwN2QtNTc4MC00YjcwLTk4YmUtOWQwM2RkMmVlYThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "Metascore": "34",
+  "imdbRating": "6.2",
+  "imdbVotes": "131,461",
+  "imdbID": "tt1524930",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$58,884,188",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

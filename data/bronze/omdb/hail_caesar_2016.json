@@ -1,0 +1,40 @@
+{
+  "Title": "Hail, Caesar!",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "05 Feb 2016",
+  "Runtime": "106 min",
+  "Genre": "Comedy, Drama, Mystery",
+  "Director": "Ethan Coen, Joel Coen",
+  "Writer": "Joel Coen, Ethan Coen",
+  "Actors": "Josh Brolin, George Clooney, Alden Ehrenreich",
+  "Plot": "A Hollywood fixer in the 1950s works to keep the studio's stars in line.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Japan",
+  "Awards": "Nominated for 1 Oscar. 14 wins & 44 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmE1NDE2ODUtZmVmNi00OTM3LWFkOTItZDE2NGUwMTM0YjIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "6.3",
+  "imdbVotes": "148,759",
+  "imdbID": "tt0475290",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$30,498,085",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

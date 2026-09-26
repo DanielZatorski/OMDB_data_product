@@ -1,0 +1,40 @@
+{
+  "Title": "The Banshees of Inisherin",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "04 Nov 2022",
+  "Runtime": "114 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Martin McDonagh",
+  "Writer": "Martin McDonagh",
+  "Actors": "Colin Farrell, Brendan Gleeson, Kerry Condon",
+  "Plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+  "Language": "English, Latin",
+  "Country": "Ireland, United Kingdom, United States",
+  "Awards": "Nominated for 9 Oscars. 150 wins & 375 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTkzMWI4OTEtMTk0MS00MTUxLWI4NTYtYmRiNWM4Zjc1MGRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "Metascore": "87",
+  "imdbRating": "7.6",
+  "imdbVotes": "299,981",
+  "imdbID": "tt11813216",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,582,266",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

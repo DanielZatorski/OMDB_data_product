@@ -1,0 +1,40 @@
+{
+  "Title": "Impractical Jokers: The Movie",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "28 Feb 2020",
+  "Runtime": "92 min",
+  "Genre": "Comedy",
+  "Director": "Chris Henchy",
+  "Writer": "Chris Henchy, Joe Gatto, James Murray",
+  "Actors": "Paula Abdul, Joe Gatto, James Murray",
+  "Plot": "The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjE5ZGFjZTMtZDIwYy00OGNlLTlkZjctMzllODU3ZTk5NzI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "5.7",
+  "imdbVotes": "7,640",
+  "imdbID": "tt9208444",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,691,091",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

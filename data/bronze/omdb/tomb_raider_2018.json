@@ -1,0 +1,40 @@
+{
+  "Title": "Tomb Raider",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "16 Mar 2018",
+  "Runtime": "119 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Roar Uthaug",
+  "Writer": "Geneva Robertson-Dworet, Alastair Siddons, Evan Daugherty",
+  "Actors": "Alicia Vikander, Dominic West, Walton Goggins",
+  "Plot": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "8 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwNWU2NTEtMDQ0Yi00MjFkLThhN2UtMjJhOGVjN2UyYzFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "Metascore": "48",
+  "imdbRating": "6.3",
+  "imdbVotes": "241,327",
+  "imdbID": "tt1365519",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$58,250,803",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

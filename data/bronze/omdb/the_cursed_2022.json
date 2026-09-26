@@ -1,0 +1,40 @@
+{
+  "Title": "The Cursed",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "18 Feb 2022",
+  "Runtime": "111 min",
+  "Genre": "Fantasy, Horror, Mystery",
+  "Director": "Sean Ellis",
+  "Writer": "Sean Ellis",
+  "Actors": "Boyd Holbrook, Kelly Reilly, Alistair Petrie",
+  "Plot": "A brutal land baron massacres a Gypsy clan claiming his land, unleashing a curse that brings monstrous consequences to his village.",
+  "Language": "English, Romanian",
+  "Country": "United Kingdom, France, United States",
+  "Awards": "5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjY3YTkwMjUtNjVhZi00ZTlmLTkxYTktNmMwYzI4M2Q2ZjhiXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.2",
+  "imdbVotes": "23,220",
+  "imdbID": "tt9907782",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$4,588,389",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

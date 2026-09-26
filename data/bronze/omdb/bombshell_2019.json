@@ -1,0 +1,40 @@
+{
+  "Title": "Bombshell",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "20 Dec 2019",
+  "Runtime": "109 min",
+  "Genre": "Biography, Drama",
+  "Director": "Jay Roach",
+  "Writer": "Charles Randolph",
+  "Actors": "Charlize Theron, Nicole Kidman, Margot Robbie",
+  "Plot": "A group of women take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network.",
+  "Language": "English",
+  "Country": "Canada, United States",
+  "Awards": "Won 1 Oscar. 25 wins & 63 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODY3ODVkYTAtZDFmNS00ZDYyLTlkOTEtNTY3NTFhNDE4ZjFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "6.8",
+  "imdbVotes": "132,894",
+  "imdbID": "tt6394270",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$31,762,808",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

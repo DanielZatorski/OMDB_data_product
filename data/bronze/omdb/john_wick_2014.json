@@ -1,0 +1,40 @@
+{
+  "Title": "John Wick",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "24 Oct 2014",
+  "Runtime": "101 min",
+  "Genre": "Action, Crime, Thriller",
+  "Director": "Chad Stahelski",
+  "Writer": "Derek Kolstad",
+  "Actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen",
+  "Plot": "John Wick is a former hitman grieving the loss of his true love. When his home is broken into, robbed, and his dog killed, he is forced to return to action to exact revenge.",
+  "Language": "English, Russian, Hungarian",
+  "Country": "United States",
+  "Awards": "5 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "7.5",
+  "imdbVotes": "819,124",
+  "imdbID": "tt2911666",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$43,037,835",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
