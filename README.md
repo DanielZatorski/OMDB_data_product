@@ -1,8 +1,10 @@
 # OMDB_data_product
 
+## Introduction
+
 This document will explain process behind delivering the task and its documentation for the data model.
 
-The **free tier** of OMDB API allows 1000 requests per day, so the project selects a fixed list of 950 movies (see "Movie selection" in section 5) that fits within one day's quota. Project includes, medalion warehouse architecture built locally with duckdb and with dbt modelled silver layer and data marts (gold layer). Furthermore, a dashboard is built in Streamlit and runs locally.
+The **free tier** of OMDB API allows 1000 requests per day, so the project selects a fixed list of 950 movies (see "Movie selection" in section 5) that fits within one day's quota. Project includes, **medalion warehouse architecture** built locally with duckdb and with **dbt** modelled silver layer and data marts (gold layer). Furthermore, a dashboard is built in Streamlit and runs locally.
 
 **This file is the design doc** — data questions, KPIs, rules, and the data model. There is references throughout the document to the repositories where more details are explained regarding certain topics:
 
@@ -11,6 +13,8 @@ The **free tier** of OMDB API allows 1000 requests per day, so the project selec
 | Python extract/select/fetch (bronze) | [`bronze_pipeline/README.md`](bronze_pipeline/README.md) |
 | dbt staging + gold models and tests | [`dbt_project/README.md`](dbt_project/README.md) |
 | Streamlit dashboard | [`dashboard/README.md`](dashboard/README.md) |
+
+![Dashboard walkthrough](dashboard/dashboard_presentation.gif)
 
 ## Architecture
 
