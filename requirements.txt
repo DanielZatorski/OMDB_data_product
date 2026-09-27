@@ -4,3 +4,4 @@ duckdb
 dbt-duckdb
 python-dotenv
 streamlit
+altair

@@ -2,13 +2,21 @@
 
 This document will explain process behind delivering the task and its documentation for the data model.
 
-The **free tier** allows 1000 requests per day, so the project selects a fixed list of 950 movies (see "Movie selection" in section 5) that fits within one day's quota, leaving room for ~50 retries. Dashboard will be built in Streamlit, and will be available to access locally.
+The **free tier** of OMDB API allows 1000 requests per day, so the project selects a fixed list of 950 movies (see "Movie selection" in section 5) that fits within one day's quota. Project includes, medalion warehouse architecture built locally with duckdb and with dbt modelled silver layer and data marts (gold layer). Furthermore, a dashboard is built in Streamlit and runs locally.
+
+**This file is the design doc** — data questions, KPIs, rules, and the data model. There is references throughout the document to the repositories where more details are explained regarding certain topics:
+
+| Component | README |
+|---|---|
+| Python extract/select/fetch (bronze) | [`bronze_pipeline/README.md`](bronze_pipeline/README.md) |
+| dbt staging + gold models and tests | [`dbt_project/README.md`](dbt_project/README.md) |
+| Streamlit dashboard | [`dashboard/README.md`](dashboard/README.md) |
 
 ## Architecture
 
 The pipeline follows a medallion architecture — bronze, silver, gold — so OMDb is called at most once per movie, no matter how many times the pipeline reruns.
 
-**Tooling:** Python (extract, select, OMDb calls, landing raw data) + dbt-duckdb (staging → gold transformations and tests), both reading/writing one embedded warehouse file, `data/warehouse.duckdb` — no external database server.
+**Tooling:** Python (extract, select, OMDb calls, landing raw data) + dbt-duckdb (staging (silver) → gold transformations and tests), both reading/writing one embedded warehouse file, `data/warehouse.duckdb` — no external database server.
 
 | Layer | Contents | Location |
 |---|---|---|
@@ -96,9 +104,9 @@ Market share is calculated when the dashboard queries the data, not stored, beca
 | `theaters` | opening theaters, wide release rule |
 | `distributor` | Q2, Q5 |
  
-The CSV has no index column to drop — all 6 columns are named. The `id` column is a unique ID per row, not per movie, so it is used only for the duplicate check. A small number of rows use `"-"` instead of a real value for `distributor`; treat it as null, same as the true nulls in `theaters`/`distributor`.
+The CSV has no index column to drop — all 6 columns are named. The `id` column is a unique ID per row, not per movie, so it is used only for the duplicate check.
  
-### What to pull from OMDb
+### What to pull from OMDb based on event.json found in data_exploration dir
  
 | Field | Use |
 |---|---|
@@ -111,7 +119,7 @@ The CSV has no index column to drop — all 6 columns are named. The `id` column
  
 `Response`/`Error` aren't stored as-is — they collapse into two derived columns, `omdb_matched` (bool) and `error_message` (null when matched). The request also carries `requested_title`/`requested_year` (from the selected movie list) alongside the response, so `Title`/`Year` can actually be checked against what was asked for, not just displayed.
  
-### Movie selection
+### Movie input selection
  
 As a proof of concept, this project's warehouse holds 950 movies. The limit comes from the API: the free OMDb key allows 1,000 requests per day, so 950 lookups fit in one day, leaving room for ~50 retries.
  
@@ -124,7 +132,7 @@ As a proof of concept, this project's warehouse holds 950 movies. The limit come
 
 The pipeline is two separate commands, run in order — selection is a deliberate, manual step, not something the pipeline decides on its own each run.
 
-**`python -m bronze_pipeline.selection`** — decides which movies to fetch, writes `bronze_pipeline/selected_movies.csv`:
+**`python -m bronze_pipeline.selection`** — decides which movies to fetch, writes `bronze_pipeline/selected_movies.csv` (see [`bronze_pipeline/README.md`](bronze_pipeline/README.md) for how this package is put together):
 1. **Extract** *(Python)*: read the full CSV.
 2. **Aggregate** *(Python)*: one row per movie (title + release year) with total gross.
 3. **Select** *(Python)*: apply the selection rule and save the list of 950 movies.
@@ -133,7 +141,7 @@ The pipeline is two separate commands, run in order — selection is a deliberat
 4. **Call OMDb** *(Python)*: one request per selected movie; save the raw JSON to bronze; log failures.
 5. **Load raw** *(Python)*: write the selected CSV rows and the raw OMDb fields into DuckDB's `raw` schema, unmodified — this is dbt's source data.
 
-**dbt** — runs separately against `raw.*`:
+**dbt** — runs separately against `raw.*` tables found in duckdb warehouse after running **`python -m bronze_pipeline.run`** (see [`dbt_project/README.md`](dbt_project/README.md) for the models, tests, and how to explore the data):
 6. **Stage** *(dbt)*: staging models clean and type the raw tables into `stg_box_office`/`stg_omdb` — fix types, convert `"N/A"`/`"-"` to null, parse `imdbVotes` ("611,841" → 611841).
 7. **Build marts** *(dbt)*: mart models join staging on title + release year and build the gold tables from section 6.
 8. **Test** *(dbt)*: dbt tests implement the section 4 checks (uniqueness, not-null, match rate) directly against staging and marts.
@@ -176,3 +184,16 @@ Full column definitions, keys, relationships, and design notes (fact grain, deno
 ![ER diagram — gold layer star schema](ER_diagram_gold.png)
  
 ---
+
+## 7. Dashboard
+
+See [`dashboard/README.md`](dashboard/README.md) for directory layout, caching, and the read-only/write-lock gotcha in detail.
+
+Run locally: `python run_dashboard.py` (wraps `streamlit run dashboard/Welcome_Page.py`).
+
+Two pages:
+
+- **Business Analytics** — the ranking dashboard: one tab per question group (Q1, Q2/Q5, Q3, Q4, Q6/Q7, Q8/Q9), reading live from the gold layer. A "Year" filter in the sidebar applies broadly; R1 (wide releases only) and R2 (minimum IMDb votes) are exposed as toggles local to the specific tabs they affect, not as global filters, since neither applies everywhere.
+- **Data Engineering** — record counts per layer, freshness (warehouse file's last modified time + dbt's last invocation timestamp), data quality metrics (dbt's own test results — pass/warn/error), flagged records (rows that failed a check but were kept, not rejected — this pipeline never silently drops data, see section 4), and pipeline execution info (from `data/bronze/last_run.json`, written by `bronze_pipeline/run.py` on each run, plus dbt's `run_results.json`).
+
+All of it reads directly from `data/warehouse.duckdb` (read-only connection) — nothing on either page is simulated or hardcoded. Stop the dashboard before rerunning the pipeline or dbt — DuckDB won't let a writer open the file while the dashboard's read-only connection is held open (see `dashboard/README.md`).
